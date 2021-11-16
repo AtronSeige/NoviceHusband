@@ -2,16 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://novicehusband.com/posts/hello-world/</loc>
-    <lastmod>2021-11-02T20:47:53+13:00</lastmod>
+    <loc>https://novicehusband.com/categories/</loc>
+    <lastmod>2021-11-02T21:18:29+13:00</lastmod>
+  </url><url>
+    <loc>https://novicehusband.com/posts/hugo-setup/</loc>
+    <lastmod>2021-11-02T21:18:29+13:00</lastmod>
+  </url><url>
+    <loc>https://novicehusband.com/categories/novice-blogger/</loc>
+    <lastmod>2021-11-02T21:18:29+13:00</lastmod>
   </url><url>
     <loc>https://novicehusband.com/</loc>
-    <lastmod>2021-11-02T20:47:53+13:00</lastmod>
+    <lastmod>2021-11-02T21:18:29+13:00</lastmod>
   </url><url>
     <loc>https://novicehusband.com/posts/</loc>
-    <lastmod>2021-11-02T20:47:53+13:00</lastmod>
+    <lastmod>2021-11-02T21:18:29+13:00</lastmod>
   </url><url>
-    <loc>https://novicehusband.com/categories/</loc>
+    <loc>https://novicehusband.com/posts/hello-world/</loc>
+    <lastmod>2021-11-02T20:47:53+13:00</lastmod>
   </url><url>
     <loc>https://novicehusband.com/tags/</loc>
   </url>

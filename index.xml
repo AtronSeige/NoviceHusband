@@ -6,18 +6,25 @@
     <description>Recent content on Novice Husband among other things</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 02 Nov 2021 20:47:53 +1300</lastBuildDate><atom:link href="https://novicehusband.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 02 Nov 2021 21:18:29 +1300</lastBuildDate><atom:link href="https://novicehusband.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hello World</title>
+      <title>Hello Hugo!</title>
+      <link>https://novicehusband.com/posts/hugo-setup/</link>
+      <pubDate>Tue, 02 Nov 2021 21:18:29 +1300</pubDate>
+      
+      <guid>https://novicehusband.com/posts/hugo-setup/</guid>
+      <description>I am using hugo to publish my static site.
+As simple as expected! I followed these steps, with more information from the starting info page.</description>
+    </item>
+    
+    <item>
+      <title>Hello World!</title>
       <link>https://novicehusband.com/posts/hello-world/</link>
       <pubDate>Tue, 02 Nov 2021 20:47:53 +1300</pubDate>
       
       <guid>https://novicehusband.com/posts/hello-world/</guid>
-      <description>Hello World! - Novice hugo user Using hugo to publish my site.
-As as simple as expected! I followed these steps https://gohugo.io/getting-started/quick-start/
-And I decided to go with the https://themes.gohugo.io/themes/mainroad/ theme.
-Using Porkbun as my host, and they have a static hosting option that pulls directly from my git repo https://github.com/AtronSeige/NoviceHusband!
-Not as simple as expected! I realized that the setup that I wanted was not a 100% match, as I wanted to have everything in git, so I fiddled a bit and ended up with the following scenario:</description>
+      <description>First! I have a new site! Yay!
+ Novice Husband   </description>
     </item>
     
   </channel>

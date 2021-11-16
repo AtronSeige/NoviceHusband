@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Novice Husband among other things</title>
-    <link>https://novicehusband.com/posts/</link>
-    <description>Recent content in Posts on Novice Husband among other things</description>
+    <title>novice blogger on Novice Husband among other things</title>
+    <link>https://novicehusband.com/categories/novice-blogger/</link>
+    <description>Recent content in novice blogger on Novice Husband among other things</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 02 Nov 2021 21:18:29 +1300</lastBuildDate><atom:link href="https://novicehusband.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 02 Nov 2021 21:18:29 +1300</lastBuildDate><atom:link href="https://novicehusband.com/categories/novice-blogger/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello Hugo!</title>
       <link>https://novicehusband.com/posts/hugo-setup/</link>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Developers on Novice Husband among other things</title>
+    <link>https://novicehusband.com/developer/</link>
+    <description>Recent content in Developers on Novice Husband among other things</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 06 Dec 2021 21:17:48 +1300</lastBuildDate><atom:link href="https://novicehusband.com/developer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo Command Reference</title>
+      <link>https://novicehusband.com/developer/hugo-command-reference/</link>
+      <pubDate>Mon, 06 Dec 2021 21:17:48 +1300</pubDate>
+      
+      <guid>https://novicehusband.com/developer/hugo-command-reference/</guid>
+      <description>Hugo Command Reference Instead of constantly googling the same things that I need to do to update my site, I decided that it would be easiest to just create a page with all the commands.</description>
+    </item>
+    
+    <item>
+      <title>Hugo Publish Experience</title>
+      <link>https://novicehusband.com/developer/hugo-publish-experience/</link>
+      <pubDate>Fri, 19 Nov 2021 23:40:47 +1300</pubDate>
+      
+      <guid>https://novicehusband.com/developer/hugo-publish-experience/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

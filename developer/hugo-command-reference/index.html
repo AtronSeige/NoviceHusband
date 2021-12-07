@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Hugo Command Reference - Novice Husband among other things</title>
+	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
+	<meta name="description" content="">
+		<meta property="og:title" content="Hugo Command Reference" />
+<meta property="og:description" content="Hugo Command Reference Instead of constantly googling the same things that I need to do to update my site, I decided that it would be easiest to just create a page with all the commands." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://novicehusband.com/developer/hugo-command-reference/" /><meta property="article:section" content="developer" />
+<meta property="article:published_time" content="2021-12-06T21:17:48+13:00" />
+<meta property="article:modified_time" content="2021-12-06T21:17:48+13:00" />
+
+
+		<meta itemprop="name" content="Hugo Command Reference">
+<meta itemprop="description" content="Hugo Command Reference Instead of constantly googling the same things that I need to do to update my site, I decided that it would be easiest to just create a page with all the commands."><meta itemprop="datePublished" content="2021-12-06T21:17:48+13:00" />
+<meta itemprop="dateModified" content="2021-12-06T21:17:48+13:00" />
+<meta itemprop="wordCount" content="174">
+<meta itemprop="keywords" content="hugo,git," />
+		<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Hugo Command Reference"/>
+<meta name="twitter:description" content="Hugo Command Reference Instead of constantly googling the same things that I need to do to update my site, I decided that it would be easiest to just create a page with all the commands."/>
+
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link rel="dns-prefetch" href="//fonts.googleapis.com">
+	<link rel="dns-prefetch" href="//fonts.gstatic.com">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700">
+
+	<link rel="stylesheet" href="/css/style.css">
+	<link rel="stylesheet" href="/css/custom.css">
+
+	<link rel="shortcut icon" href="/favicon.ico">
+		
+</head>
+<body class="body">
+	<div class="container container--outer">
+		<header class="header">
+	<div class="container header__container">
+		
+	<div class="logo logo--mixed">
+		<a class="logo__link" href="/" title="Novice Husband" rel="home">
+			<div class="logo__item logo__imagebox">
+					<img class="logo__img" src="/sharedimages/NoviceHusbandLogo.png">
+				</div><div class="logo__item logo__text">
+					<div class="logo__title">Novice Husband</div>
+					<div class="logo__tagline">I am a novice at many things, even things that I have been doing for years. Here I write about some of them.</div>
+				</div>
+		</a>
+	</div>
+		<div class="divider"></div>
+	</div>
+</header>
+		<div class="wrapper flex">
+			<div class="primary">
+			
+<main class="main" role="main">
+	<article class="post">
+		<header class="post__header">
+			<h1 class="post__title">Hugo Command Reference</h1>
+			<div class="post__meta meta"><div class="meta__item-author meta__item">
+	<svg class="meta__icon icon icon-author" width="16" height="16" viewBox="0 0 12 16"><path d="M6 1c2.2 0 3.5 2 3.5 4.5C9.5 7 8.9 8.2 8 9c2.9.8 4 2.5 4 5v1H0v-1c0-2.5 1.1-4.2 4-5-.9-.8-1.5-2-1.5-3.5C2.5 3 3.8 1 6 1z"/></svg><span class="meta__text">Atron Seige</span>
+</div>
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2021-12-06T21:17:48&#43;13:00">2021-12-06</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/developer/" rel="category">developer</a>
+	</span>
+</div></div>
+		</header>
+		
+<div class="post__toc toc">
+	<div class="toc__title">Page content</div>
+	<div class="toc__menu">
+		<nav id="TableOfContents">
+  <ul>
+    <li><a href="#create-a-new-page">Create a new page</a></li>
+    <li><a href="#run-a-local-server">Run a local server</a></li>
+    <li><a href="#build-the-static-pages">Build the static pages</a></li>
+    <li><a href="#commit-changes">Commit changes</a></li>
+    <li><a href="#push-changes-to-git">Push changes to git</a></li>
+  </ul>
+</nav>
+	</div>
+</div><div class="content post__content clearfix">
+			<h1 id="hugo-command-reference">Hugo Command Reference</h1>
+<p>Instead of constantly googling the same things that I need to do to update my site, I decided that it would be easiest to just create a page with all the commands.</p>
+<h2 id="create-a-new-page">Create a new page</h2>
+<p><code>hugo [directory]\[new-file-name].md</code></p>
+<p>This will create a new markdown file in the specified directory. If the directory has a matching file in the archetypes directory, then it will be used as a template.</p>
+<h2 id="run-a-local-server">Run a local server</h2>
+<p><code>hugo server -D</code></p>
+<p>This will publish a local version on https://localhost:1313. This will include pages that are marked as Draft versions.</p>
+<h2 id="build-the-static-pages">Build the static pages</h2>
+<p><code>hugo -D</code></p>
+<p>This will build the static pages that you can now commit and push to git. It will publish to the directory that you specified in the config file.</p>
+<h2 id="commit-changes">Commit changes</h2>
+<p><code>git add *</code></p>
+<p>Add all the new files to the git working set.</p>
+<p><code>git commit -a -m &quot;[commit message]&quot;</code></p>
+<p>This will commit all the files to the local repo.</p>
+<h2 id="push-changes-to-git">Push changes to git</h2>
+<p><code>git push</code></p>
+<p>Push the changes to the remote repo.</p>
+
+		</div>
+		<footer class="post__footer">
+			
+<div class="post__tags tags clearfix">
+	<svg class="tags__badge icon icon-tag" width="16" height="16" viewBox="0 0 32 32"><path d="M32 19c0 1-1 2-1 2L21 31s-1 1-2 1-2-1-2-1L2 16c-1-1-1.4-2-1.4-2S0 12.5 0 11V3C0 1.5.8.8.8.8S1.5 0 3 0h8c1.5 0 3 .6 3 .6S15 1 16 2l15 15s1 1 1 2zM7 10a3 3 0 1 0 0-6 3 3 0 0 0 0 6z"/></svg>
+	<ul class="tags__list">
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/hugo/" rel="tag">hugo</a>
+		</li>
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/git/" rel="tag">git</a>
+		</li>
+	</ul>
+</div>
+		</footer>
+	</article>
+</main>
+
+<div class="authorbox clearfix">
+	<figure class="authorbox__avatar">
+		<img alt="Atron Seige avatar" src="/img/avatar.png" class="avatar" height="90" width="90">
+	</figure>
+	<div class="authorbox__header">
+		<span class="authorbox__name">About Atron Seige</span>
+	</div>
+	<div class="authorbox__description">
+		I am a novice at many things, even things that I have been doing for years. Here I write about some of them.
+	</div>
+</div>
+
+<nav class="pager flex">
+	<div class="pager__item pager__item--prev">
+		<a class="pager__link" href="/developer/hugo-publish-experience/" rel="prev">
+			<span class="pager__subtitle">«&thinsp;Previous</span>
+			<p class="pager__title">Hugo Publish Experience</p>
+		</a>
+	</div>
+</nav>
+
+
+			</div>
+			
+		</div>
+		<footer class="footer">
+	<div class="container footer__container flex">
+		
+		<div class="footer__copyright">
+			&copy; 2021 Atron Seige.
+			<span class="footer__copyright-credits">Generated with <a href="https://gohugo.io/" rel="nofollow noopener" target="_blank">Hugo</a> and <a href="https://github.com/Vimux/Mainroad/" rel="nofollow noopener" target="_blank">Mainroad</a> theme.</span>
+		</div>
+	</div>
+</footer>
+	</div>
+<script async defer src="/js/menu.js"></script>
+<script src="/js/custom.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js?config=TeX-AMS-MML_HTMLorMML" async></script>
+</body>
+</html>

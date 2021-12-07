@@ -18,7 +18,7 @@
 		<meta itemprop="name" content="Hugo Command Reference">
 <meta itemprop="description" content="Hugo Command Reference Instead of constantly googling the same things that I need to do to update my site, I decided that it would be easiest to just create a page with all the commands."><meta itemprop="datePublished" content="2021-12-06T21:17:48+13:00" />
 <meta itemprop="dateModified" content="2021-12-06T21:17:48+13:00" />
-<meta itemprop="wordCount" content="174">
+<meta itemprop="wordCount" content="236">
 <meta itemprop="keywords" content="hugo,git," />
 		<meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Hugo Command Reference"/>
@@ -76,9 +76,10 @@
   <ul>
     <li><a href="#create-a-new-page">Create a new page</a></li>
     <li><a href="#run-a-local-server">Run a local server</a></li>
-    <li><a href="#build-the-static-pages">Build the static pages</a></li>
     <li><a href="#commit-changes">Commit changes</a></li>
     <li><a href="#push-changes-to-git">Push changes to git</a></li>
+    <li><a href="#build-the-static-pages">Build the static pages</a></li>
+    <li><a href="#push-to-public-git-repo">Push to public git repo</a></li>
   </ul>
 </nav>
 	</div>
@@ -90,10 +91,7 @@
 <p>This will create a new markdown file in the specified directory. If the directory has a matching file in the archetypes directory, then it will be used as a template.</p>
 <h2 id="run-a-local-server">Run a local server</h2>
 <p><code>hugo server -D</code></p>
-<p>This will publish a local version on https://localhost:1313. This will include pages that are marked as Draft versions.</p>
-<h2 id="build-the-static-pages">Build the static pages</h2>
-<p><code>hugo -D</code></p>
-<p>This will build the static pages that you can now commit and push to git. It will publish to the directory that you specified in the config file.</p>
+<p>This will publish a local version on https://localhost:1313. This will include pages that are marked as Draft versions. Check that everything is working as expected and either make changes, or continue to add the files to the private git repo.</p>
 <h2 id="commit-changes">Commit changes</h2>
 <p><code>git add *</code></p>
 <p>Add all the new files to the git working set.</p>
@@ -102,6 +100,11 @@
 <h2 id="push-changes-to-git">Push changes to git</h2>
 <p><code>git push</code></p>
 <p>Push the changes to the remote repo.</p>
+<h2 id="build-the-static-pages">Build the static pages</h2>
+<p><code>hugo</code></p>
+<p>This will build the static pages that are marked as <code>draft:false</code>. You can now commit the files and push to the git repo. The files will be published to the directory that you specified in the config file, or to the default <code>.\publish</code> folder.</p>
+<h2 id="push-to-public-git-repo">Push to public git repo</h2>
+<p>Now you can commit the static pages to the public git repo so that your site will be updated. :)</p>
 
 		</div>
 		<footer class="post__footer">
@@ -135,9 +138,9 @@
 
 <nav class="pager flex">
 	<div class="pager__item pager__item--prev">
-		<a class="pager__link" href="/developer/hugo-publish-experience/" rel="prev">
+		<a class="pager__link" href="/developer/hugo-setup/" rel="prev">
 			<span class="pager__subtitle">«&thinsp;Previous</span>
-			<p class="pager__title">Hugo Publish Experience</p>
+			<p class="pager__title">Hello Hugo!</p>
 		</a>
 	</div>
 </nav>

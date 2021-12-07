@@ -17,41 +17,23 @@
     </item>
     
     <item>
-      <title>Kia Ora Aotearoa</title>
-      <link>https://novicehusband.com/kiwi/kia-ora-aotearoa/</link>
-      <pubDate>Sun, 21 Nov 2021 15:38:11 +1300</pubDate>
-      
-      <guid>https://novicehusband.com/kiwi/kia-ora-aotearoa/</guid>
-      <description>&amp;ldquo;Kia Ora Aotearoa!&amp;rdquo; Kia Ora means Hello in Māori, and Aotearoa means Long White Cloud, which is the Māori name for New Zealand.
-Tanja got a work offer that allowed us to move to New Zealand.</description>
-    </item>
-    
-    <item>
-      <title>Hugo Publish Experience</title>
-      <link>https://novicehusband.com/developer/hugo-publish-experience/</link>
-      <pubDate>Fri, 19 Nov 2021 23:40:47 +1300</pubDate>
-      
-      <guid>https://novicehusband.com/developer/hugo-publish-experience/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Hello Hugo!</title>
-      <link>https://novicehusband.com/posts/hugo-setup/</link>
+      <link>https://novicehusband.com/developer/hugo-setup/</link>
       <pubDate>Tue, 02 Nov 2021 21:18:29 +1300</pubDate>
       
-      <guid>https://novicehusband.com/posts/hugo-setup/</guid>
+      <guid>https://novicehusband.com/developer/hugo-setup/</guid>
       <description>I am using hugo to publish my static site.
 As simple as expected! I followed these steps, with more information from the starting info page.</description>
     </item>
     
     <item>
       <title>Hello World!</title>
-      <link>https://novicehusband.com/posts/hello-world/</link>
+      <link>https://novicehusband.com/developer/hello-world/</link>
       <pubDate>Tue, 02 Nov 2021 20:47:53 +1300</pubDate>
       
-      <guid>https://novicehusband.com/posts/hello-world/</guid>
-      <description>First! I have a new site! Yay!</description>
+      <guid>https://novicehusband.com/developer/hello-world/</guid>
+      <description>First! I have a new site! Yay!
+Here is a picture of a dandylion. </description>
     </item>
     
   </channel>

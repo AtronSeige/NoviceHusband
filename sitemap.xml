@@ -2,24 +2,85 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://novicehusband.com/categories/brewer/</loc>
+    <lastmod>2022-03-20T13:29:32+13:00</lastmod>
+  </url><url>
+    <loc>https://novicehusband.com/brewer/</loc>
+    <lastmod>2022-03-20T13:29:32+13:00</lastmod>
+  </url><url>
     <loc>https://novicehusband.com/categories/</loc>
-    <lastmod>2021-11-02T21:18:29+13:00</lastmod>
+    <lastmod>2022-03-20T13:29:32+13:00</lastmod>
   </url><url>
-    <loc>https://novicehusband.com/posts/hugo-setup/</loc>
-    <lastmod>2021-11-02T21:18:29+13:00</lastmod>
+    <loc>https://novicehusband.com/tags/cleaning/</loc>
+    <lastmod>2022-03-20T13:29:32+13:00</lastmod>
   </url><url>
-    <loc>https://novicehusband.com/categories/novice-blogger/</loc>
-    <lastmod>2021-11-02T21:18:29+13:00</lastmod>
+    <loc>https://novicehusband.com/brewer/fivestar-pbw/</loc>
+    <lastmod>2022-03-20T13:29:32+13:00</lastmod>
   </url><url>
     <loc>https://novicehusband.com/</loc>
-    <lastmod>2021-11-02T21:18:29+13:00</lastmod>
-  </url><url>
-    <loc>https://novicehusband.com/posts/</loc>
-    <lastmod>2021-11-02T21:18:29+13:00</lastmod>
-  </url><url>
-    <loc>https://novicehusband.com/posts/hello-world/</loc>
-    <lastmod>2021-11-02T20:47:53+13:00</lastmod>
+    <lastmod>2022-03-20T13:29:32+13:00</lastmod>
   </url><url>
     <loc>https://novicehusband.com/tags/</loc>
+    <lastmod>2022-03-20T13:29:32+13:00</lastmod>
+  </url><url>
+    <loc>https://novicehusband.com/tags/co2/</loc>
+    <lastmod>2021-12-15T22:04:51+13:00</lastmod>
+  </url><url>
+    <loc>https://novicehusband.com/brewer/force-carbonation/</loc>
+    <lastmod>2021-12-15T22:04:51+13:00</lastmod>
+  </url><url>
+    <loc>https://novicehusband.com/tags/kegs/</loc>
+    <lastmod>2021-12-15T22:04:51+13:00</lastmod>
+  </url><url>
+    <loc>https://novicehusband.com/husband/april-fools-ideas/</loc>
+    <lastmod>2021-12-14T21:45:20+13:00</lastmod>
+  </url><url>
+    <loc>https://novicehusband.com/categories/husband/</loc>
+    <lastmod>2021-12-14T21:45:20+13:00</lastmod>
+  </url><url>
+    <loc>https://novicehusband.com/husband/</loc>
+    <lastmod>2021-12-14T21:45:20+13:00</lastmod>
+  </url><url>
+    <loc>https://novicehusband.com/brewer/gelatin-mix-for-beer-clarity/</loc>
+    <lastmod>2021-12-13T21:21:06+13:00</lastmod>
+  </url><url>
+    <loc>https://novicehusband.com/cook/burning-water/</loc>
+    <lastmod>2021-12-07T21:34:09+13:00</lastmod>
+  </url><url>
+    <loc>https://novicehusband.com/categories/cook/</loc>
+    <lastmod>2021-12-07T21:34:09+13:00</lastmod>
+  </url><url>
+    <loc>https://novicehusband.com/cook/</loc>
+    <lastmod>2021-12-07T21:34:09+13:00</lastmod>
+  </url><url>
+    <loc>https://novicehusband.com/categories/developer/</loc>
+    <lastmod>2021-12-06T21:17:48+13:00</lastmod>
+  </url><url>
+    <loc>https://novicehusband.com/developer/</loc>
+    <lastmod>2021-12-06T21:17:48+13:00</lastmod>
+  </url><url>
+    <loc>https://novicehusband.com/tags/git/</loc>
+    <lastmod>2021-12-06T21:17:48+13:00</lastmod>
+  </url><url>
+    <loc>https://novicehusband.com/tags/hugo/</loc>
+    <lastmod>2021-12-06T21:17:48+13:00</lastmod>
+  </url><url>
+    <loc>https://novicehusband.com/developer/hugo-command-reference/</loc>
+    <lastmod>2021-12-06T21:17:48+13:00</lastmod>
+  </url><url>
+    <loc>https://novicehusband.com/kiwi/kia-ora-aotearoa/</loc>
+    <lastmod>2021-11-21T15:38:11+13:00</lastmod>
+  </url><url>
+    <loc>https://novicehusband.com/categories/kiwi/</loc>
+    <lastmod>2021-11-21T15:38:11+13:00</lastmod>
+  </url><url>
+    <loc>https://novicehusband.com/kiwi/</loc>
+    <lastmod>2021-11-21T15:38:11+13:00</lastmod>
+  </url><url>
+    <loc>https://novicehusband.com/developer/hugo-setup/</loc>
+    <lastmod>2021-11-02T21:18:29+13:00</lastmod>
+  </url><url>
+    <loc>https://novicehusband.com/developer/hello-world/</loc>
+    <lastmod>2021-11-02T20:47:53+13:00</lastmod>
   </url>
 </urlset>

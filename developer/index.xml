@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Developers on Novice Husband among other things</title>
+    <link>https://novicehusband.com/developer/</link>
+    <description>Recent content in Developers on Novice Husband among other things</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 06 Dec 2021 21:17:48 +1300</lastBuildDate><atom:link href="https://novicehusband.com/developer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo Command Reference</title>
+      <link>https://novicehusband.com/developer/hugo-command-reference/</link>
+      <pubDate>Mon, 06 Dec 2021 21:17:48 +1300</pubDate>
+      
+      <guid>https://novicehusband.com/developer/hugo-command-reference/</guid>
+      <description>Instead of constantly googling the same things that I need to do to update my site, I decided that it would be easiest to just create a page with all the commands.</description>
+    </item>
+    
+    <item>
+      <title>Hello Hugo!</title>
+      <link>https://novicehusband.com/developer/hugo-setup/</link>
+      <pubDate>Tue, 02 Nov 2021 21:18:29 +1300</pubDate>
+      
+      <guid>https://novicehusband.com/developer/hugo-setup/</guid>
+      <description>I am using hugo to publish my static site.
+As simple as expected! I followed these steps, with more information from the starting info page.</description>
+    </item>
+    
+    <item>
+      <title>Hello World!</title>
+      <link>https://novicehusband.com/developer/hello-world/</link>
+      <pubDate>Tue, 02 Nov 2021 20:47:53 +1300</pubDate>
+      
+      <guid>https://novicehusband.com/developer/hello-world/</guid>
+      <description>First! I have a new site! Yay!
+Here is a picture of a dandylion. </description>
+    </item>
+    
+  </channel>
+</rss>

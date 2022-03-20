@@ -6,24 +6,90 @@
     <description>Recent content on Novice Husband among other things</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 02 Nov 2021 21:18:29 +1300</lastBuildDate><atom:link href="https://novicehusband.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 20 Mar 2022 13:29:32 +1300</lastBuildDate><atom:link href="https://novicehusband.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fivestar PBW</title>
+      <link>https://novicehusband.com/brewer/fivestar-pbw/</link>
+      <pubDate>Sun, 20 Mar 2022 13:29:32 +1300</pubDate>
+      
+      <guid>https://novicehusband.com/brewer/fivestar-pbw/</guid>
+      <description>PBW is made by Five Star Chemicals.
+It can be re-used for only a 12 hour period&amp;hellip; So the manufacturer says. :) I have found that I can re-use the solution many times.</description>
+    </item>
+    
+    <item>
+      <title>Force Carbonation</title>
+      <link>https://novicehusband.com/brewer/force-carbonation/</link>
+      <pubDate>Wed, 15 Dec 2021 22:04:51 +1300</pubDate>
+      
+      <guid>https://novicehusband.com/brewer/force-carbonation/</guid>
+      <description>Once kegged your beer needs to be carbonated. I am struggling to get the levels right, but for now these are the steps that I take.</description>
+    </item>
+    
+    <item>
+      <title>April Fools Ideas</title>
+      <link>https://novicehusband.com/husband/april-fools-ideas/</link>
+      <pubDate>Tue, 14 Dec 2021 21:45:20 +1300</pubDate>
+      
+      <guid>https://novicehusband.com/husband/april-fools-ideas/</guid>
+      <description>April Fools day can be so much fun, but I keep forgetting the actual tricks when it comes to the day. So here are some tricks.</description>
+    </item>
+    
+    <item>
+      <title>Gelatin Mix for Beer Clarity</title>
+      <link>https://novicehusband.com/brewer/gelatin-mix-for-beer-clarity/</link>
+      <pubDate>Mon, 13 Dec 2021 21:21:06 +1300</pubDate>
+      
+      <guid>https://novicehusband.com/brewer/gelatin-mix-for-beer-clarity/</guid>
+      <description>Description This is to assist with clarification of a 18 to 23 liter batch of beer by adding gelitin to the fermented beer. The beer is not carbonated at this stage.</description>
+    </item>
+    
+    <item>
+      <title>Burning Water</title>
+      <link>https://novicehusband.com/cook/burning-water/</link>
+      <pubDate>Tue, 07 Dec 2021 21:34:09 +1300</pubDate>
+      
+      <guid>https://novicehusband.com/cook/burning-water/</guid>
+      <description>I am not good at cooking I never really cared about cooking, which meant that my skills in cooking was limited to burning water. O_O</description>
+    </item>
+    
+    <item>
+      <title>Hugo Command Reference</title>
+      <link>https://novicehusband.com/developer/hugo-command-reference/</link>
+      <pubDate>Mon, 06 Dec 2021 21:17:48 +1300</pubDate>
+      
+      <guid>https://novicehusband.com/developer/hugo-command-reference/</guid>
+      <description>Instead of constantly googling the same things that I need to do to update my site, I decided that it would be easiest to just create a page with all the commands.</description>
+    </item>
+    
+    <item>
+      <title>Kia Ora Aotearoa</title>
+      <link>https://novicehusband.com/kiwi/kia-ora-aotearoa/</link>
+      <pubDate>Sun, 21 Nov 2021 15:38:11 +1300</pubDate>
+      
+      <guid>https://novicehusband.com/kiwi/kia-ora-aotearoa/</guid>
+      <description>&amp;ldquo;Kia Ora Aotearoa!&amp;rdquo; Kia Ora means Hello in Māori, and Aotearoa means Long White Cloud, which is the Māori name for New Zealand.
+How it all came to pass Tanja got a work offer that allowed us to move to New Zealand.</description>
+    </item>
+    
     <item>
       <title>Hello Hugo!</title>
-      <link>https://novicehusband.com/posts/hugo-setup/</link>
+      <link>https://novicehusband.com/developer/hugo-setup/</link>
       <pubDate>Tue, 02 Nov 2021 21:18:29 +1300</pubDate>
       
-      <guid>https://novicehusband.com/posts/hugo-setup/</guid>
+      <guid>https://novicehusband.com/developer/hugo-setup/</guid>
       <description>I am using hugo to publish my static site.
 As simple as expected! I followed these steps, with more information from the starting info page.</description>
     </item>
     
     <item>
       <title>Hello World!</title>
-      <link>https://novicehusband.com/posts/hello-world/</link>
+      <link>https://novicehusband.com/developer/hello-world/</link>
       <pubDate>Tue, 02 Nov 2021 20:47:53 +1300</pubDate>
       
-      <guid>https://novicehusband.com/posts/hello-world/</guid>
-      <description>First! I have a new site! Yay!</description>
+      <guid>https://novicehusband.com/developer/hello-world/</guid>
+      <description>First! I have a new site! Yay!
+Here is a picture of a dandylion. </description>
     </item>
     
   </channel>

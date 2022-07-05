@@ -2,13 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://novicehusband.com/categories/</loc>
+    <lastmod>2022-05-12T21:23:48+12:00</lastmod>
+  </url><url>
+    <loc>https://novicehusband.com/categories/developer/</loc>
+    <lastmod>2022-05-12T21:23:48+12:00</lastmod>
+  </url><url>
+    <loc>https://novicehusband.com/developer/</loc>
+    <lastmod>2022-05-12T21:23:48+12:00</lastmod>
+  </url><url>
+    <loc>https://novicehusband.com/</loc>
+    <lastmod>2022-05-12T21:23:48+12:00</lastmod>
+  </url><url>
     <loc>https://novicehusband.com/tags/boil/</loc>
     <lastmod>2022-04-11T20:12:55+12:00</lastmod>
   </url><url>
     <loc>https://novicehusband.com/cook/boiled-eggs/</loc>
-    <lastmod>2022-04-11T20:12:55+12:00</lastmod>
-  </url><url>
-    <loc>https://novicehusband.com/categories/</loc>
     <lastmod>2022-04-11T20:12:55+12:00</lastmod>
   </url><url>
     <loc>https://novicehusband.com/categories/cook/</loc>
@@ -20,11 +29,14 @@
     <loc>https://novicehusband.com/tags/egg/</loc>
     <lastmod>2022-04-11T20:12:55+12:00</lastmod>
   </url><url>
-    <loc>https://novicehusband.com/</loc>
-    <lastmod>2022-04-11T20:12:55+12:00</lastmod>
-  </url><url>
     <loc>https://novicehusband.com/tags/</loc>
     <lastmod>2022-04-11T20:12:55+12:00</lastmod>
+  </url><url>
+    <loc>https://novicehusband.com/developer/chocolatey/</loc>
+    <lastmod>2022-03-22T20:26:23+13:00</lastmod>
+  </url><url>
+    <loc>https://novicehusband.com/tags/chocolatey/</loc>
+    <lastmod>2022-03-22T20:26:23+13:00</lastmod>
   </url><url>
     <loc>https://novicehusband.com/categories/brewer/</loc>
     <lastmod>2022-03-20T13:29:32+13:00</lastmod>
@@ -62,11 +74,8 @@
     <loc>https://novicehusband.com/cook/burning-water/</loc>
     <lastmod>2021-12-07T21:34:09+13:00</lastmod>
   </url><url>
-    <loc>https://novicehusband.com/categories/developer/</loc>
-    <lastmod>2021-12-06T21:17:48+13:00</lastmod>
-  </url><url>
-    <loc>https://novicehusband.com/developer/</loc>
-    <lastmod>2021-12-06T21:17:48+13:00</lastmod>
+    <loc>https://novicehusband.com/tags/water/</loc>
+    <lastmod>2021-12-07T21:34:09+13:00</lastmod>
   </url><url>
     <loc>https://novicehusband.com/tags/git/</loc>
     <lastmod>2021-12-06T21:17:48+13:00</lastmod>

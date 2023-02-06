@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>temperature on Novice Husband... among other things</title>
+    <link>https://novicehusband.com/tags/temperature/</link>
+    <description>Recent content in temperature on Novice Husband... among other things</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 06 Feb 2023 12:35:23 +1300</lastBuildDate><atom:link href="https://novicehusband.com/tags/temperature/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fermentation Temperature Controller Hack</title>
+      <link>https://novicehusband.com/brewer/fermentation-temperature-controller-hack/</link>
+      <pubDate>Mon, 06 Feb 2023 12:35:23 +1300</pubDate>
+      
+      <guid>https://novicehusband.com/brewer/fermentation-temperature-controller-hack/</guid>
+      <description>My existing fermenter is a Ss Brewtech Chronical - Brewmaster Edition with a FTSs controller. The controller powers a pump that is immersed in cold water.</description>
+    </item>
+    
+  </channel>
+</rss>

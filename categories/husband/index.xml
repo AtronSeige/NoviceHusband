@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>husband on Novice Husband among other things</title>
+    <title>husband on Novice Husband... among other things</title>
     <link>https://novicehusband.com/categories/husband/</link>
-    <description>Recent content in husband on Novice Husband among other things</description>
+    <description>Recent content in husband on Novice Husband... among other things</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 Dec 2021 21:45:20 +1300</lastBuildDate><atom:link href="https://novicehusband.com/categories/husband/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 12 May 2022 21:23:48 +1200</lastBuildDate><atom:link href="https://novicehusband.com/categories/husband/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Husband</title>
+      <link>https://novicehusband.com/husband/</link>
+      <pubDate>Thu, 12 May 2022 21:23:48 +1200</pubDate>
+      
+      <guid>https://novicehusband.com/husband/</guid>
+      <description>Trying not to ruin the marriage</description>
+    </item>
+    
     <item>
       <title>April Fools Ideas</title>
       <link>https://novicehusband.com/husband/april-fools-ideas/</link>

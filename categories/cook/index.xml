@@ -1,12 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>cook on Novice Husband among other things</title>
+    <title>cook on Novice Husband... among other things</title>
     <link>https://novicehusband.com/categories/cook/</link>
-    <description>Recent content in cook on Novice Husband among other things</description>
+    <description>Recent content in cook on Novice Husband... among other things</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 Dec 2021 21:34:09 +1300</lastBuildDate><atom:link href="https://novicehusband.com/categories/cook/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 Sep 2022 21:23:12 +1300</lastBuildDate><atom:link href="https://novicehusband.com/categories/cook/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Greek Salad</title>
+      <link>https://novicehusband.com/cook/greek-salad/</link>
+      <pubDate>Tue, 27 Sep 2022 21:23:12 +1300</pubDate>
+      
+      <guid>https://novicehusband.com/cook/greek-salad/</guid>
+      <description>How to make a large Greek Salad.</description>
+    </item>
+    
+    <item>
+      <title>Flat Breads</title>
+      <link>https://novicehusband.com/cook/flat-breads/</link>
+      <pubDate>Tue, 27 Sep 2022 21:06:29 +1300</pubDate>
+      
+      <guid>https://novicehusband.com/cook/flat-breads/</guid>
+      <description>Every meal should have bread! This makes quite a lot of flat breads.</description>
+    </item>
+    
+    <item>
+      <title>Cook</title>
+      <link>https://novicehusband.com/cook/</link>
+      <pubDate>Thu, 12 May 2022 21:23:48 +1200</pubDate>
+      
+      <guid>https://novicehusband.com/cook/</guid>
+      <description>Cook something</description>
+    </item>
+    
     <item>
       <title>Burning Water</title>
       <link>https://novicehusband.com/cook/burning-water/</link>

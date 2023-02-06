@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>chocolatey on Novice Husband... among other things</title>
+    <link>https://novicehusband.com/tags/chocolatey/</link>
+    <description>Recent content in chocolatey on Novice Husband... among other things</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 05 Jul 2022 20:26:23 +1300</lastBuildDate><atom:link href="https://novicehusband.com/tags/chocolatey/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chocolatey</title>
+      <link>https://novicehusband.com/developer/chocolatey/</link>
+      <pubDate>Tue, 05 Jul 2022 20:26:23 +1300</pubDate>
+      
+      <guid>https://novicehusband.com/developer/chocolatey/</guid>
+      <description>Link https://docs.chocolatey.org/en-us/
+Useful apps Create a package.config file in a folder that you prefer.
+I find these apps useful, so I use this config file.</description>
+    </item>
+    
+  </channel>
+</rss>

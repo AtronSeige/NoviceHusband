@@ -1,12 +1,71 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Novice Husband among other things</title>
+    <title>Novice Husband... among other things</title>
     <link>https://novicehusband.com/</link>
-    <description>Recent content on Novice Husband among other things</description>
+    <description>Recent content on Novice Husband... among other things</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 20 Mar 2022 13:29:32 +1300</lastBuildDate><atom:link href="https://novicehusband.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 06 Feb 2023 12:35:23 +1300</lastBuildDate><atom:link href="https://novicehusband.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fermentation Temperature Controller Hack</title>
+      <link>https://novicehusband.com/brewer/fermentation-temperature-controller-hack/</link>
+      <pubDate>Mon, 06 Feb 2023 12:35:23 +1300</pubDate>
+      
+      <guid>https://novicehusband.com/brewer/fermentation-temperature-controller-hack/</guid>
+      <description>My existing fermenter is a Ss Brewtech Chronical - Brewmaster Edition with a FTSs controller. The controller powers a pump that is immersed in cold water.</description>
+    </item>
+    
+    <item>
+      <title>Brewing suppliers in Chch</title>
+      <link>https://novicehusband.com/brewer/suppliers-in-chch/</link>
+      <pubDate>Mon, 06 Feb 2023 11:41:43 +1300</pubDate>
+      
+      <guid>https://novicehusband.com/brewer/suppliers-in-chch/</guid>
+      <description>A convenient list of places to get brewing related things. I include online stores as they ship to Chch.
+This is not an exhaustive list. These are the ones that I use, or ones that I have been recommended.</description>
+    </item>
+    
+    <item>
+      <title>Greek Salad</title>
+      <link>https://novicehusband.com/cook/greek-salad/</link>
+      <pubDate>Tue, 27 Sep 2022 21:23:12 +1300</pubDate>
+      
+      <guid>https://novicehusband.com/cook/greek-salad/</guid>
+      <description>How to make a large Greek Salad.</description>
+    </item>
+    
+    <item>
+      <title>Flat Breads</title>
+      <link>https://novicehusband.com/cook/flat-breads/</link>
+      <pubDate>Tue, 27 Sep 2022 21:06:29 +1300</pubDate>
+      
+      <guid>https://novicehusband.com/cook/flat-breads/</guid>
+      <description>Every meal should have bread! This makes quite a lot of flat breads.</description>
+    </item>
+    
+    <item>
+      <title>Access Shared MS directory on Home network</title>
+      <link>https://novicehusband.com/developer/access-shared-folder/</link>
+      <pubDate>Tue, 26 Jul 2022 21:21:35 +1200</pubDate>
+      
+      <guid>https://novicehusband.com/developer/access-shared-folder/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Accessing shared directories on a home Microsoft network should not be hard.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;tldr;&lt;/code&gt;&lt;br&gt;
+When accessing a shared directory, use &lt;code&gt;MicrosoftAccount\[username@email.com]&lt;/code&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chocolatey</title>
+      <link>https://novicehusband.com/developer/chocolatey/</link>
+      <pubDate>Tue, 05 Jul 2022 20:26:23 +1300</pubDate>
+      
+      <guid>https://novicehusband.com/developer/chocolatey/</guid>
+      <description>Link https://docs.chocolatey.org/en-us/
+Useful apps Create a package.config file in a folder that you prefer.
+I find these apps useful, so I use this config file.</description>
+    </item>
+    
     <item>
       <title>Fivestar PBW</title>
       <link>https://novicehusband.com/brewer/fivestar-pbw/</link>

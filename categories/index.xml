@@ -6,7 +6,29 @@
     <description>Recent content in Categories on Novice Husband... among other things</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+<<<<<<< HEAD
     <lastBuildDate>Mon, 06 Feb 2023 12:35:23 +1300</lastBuildDate><atom:link href="https://novicehusband.com/categories/index.xml" rel="self" type="application/rss+xml" />
+=======
+    <lastBuildDate>Tue, 26 Jul 2022 21:21:35 +1200</lastBuildDate><atom:link href="https://novicehusband.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>developer</title>
+      <link>https://novicehusband.com/categories/developer/</link>
+      <pubDate>Tue, 26 Jul 2022 21:21:35 +1200</pubDate>
+      
+      <guid>https://novicehusband.com/categories/developer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cook</title>
+      <link>https://novicehusband.com/categories/cook/</link>
+      <pubDate>Mon, 11 Apr 2022 20:12:55 +1200</pubDate>
+      
+      <guid>https://novicehusband.com/categories/cook/</guid>
+      <description></description>
+    </item>
+    
+>>>>>>> 811686a3e08b350ad79bff1f1f7feb6a3eb5ce67
     <item>
       <title>brewer</title>
       <link>https://novicehusband.com/categories/brewer/</link>
@@ -17,6 +39,7 @@
     </item>
     
     <item>
+<<<<<<< HEAD
       <title>cook</title>
       <link>https://novicehusband.com/categories/cook/</link>
       <pubDate>Tue, 27 Sep 2022 21:23:12 +1300</pubDate>
@@ -38,6 +61,11 @@
       <title>husband</title>
       <link>https://novicehusband.com/categories/husband/</link>
       <pubDate>Thu, 12 May 2022 21:23:48 +1200</pubDate>
+=======
+      <title>husband</title>
+      <link>https://novicehusband.com/categories/husband/</link>
+      <pubDate>Tue, 14 Dec 2021 21:45:20 +1300</pubDate>
+>>>>>>> 811686a3e08b350ad79bff1f1f7feb6a3eb5ce67
       
       <guid>https://novicehusband.com/categories/husband/</guid>
       <description></description>

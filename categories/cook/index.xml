@@ -6,6 +6,7 @@
     <description>Recent content in cook on Novice Husband... among other things</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+<<<<<<< HEAD
     <lastBuildDate>Tue, 27 Sep 2022 21:23:12 +1300</lastBuildDate><atom:link href="https://novicehusband.com/categories/cook/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Greek Salad</title>
@@ -32,6 +33,17 @@
       
       <guid>https://novicehusband.com/cook/</guid>
       <description>Cook something</description>
+=======
+    <lastBuildDate>Mon, 11 Apr 2022 20:12:55 +1200</lastBuildDate><atom:link href="https://novicehusband.com/categories/cook/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Boiled Eggs</title>
+      <link>https://novicehusband.com/cook/boiled-eggs/</link>
+      <pubDate>Mon, 11 Apr 2022 20:12:55 +1200</pubDate>
+      
+      <guid>https://novicehusband.com/cook/boiled-eggs/</guid>
+      <description>Here are Tanja’s instructions on how she boils eggs.
+The soft eggs have a runny yolk and are very difficult to peel. These are best enjoyed from the shell.</description>
+>>>>>>> 811686a3e08b350ad79bff1f1f7feb6a3eb5ce67
     </item>
     
     <item>

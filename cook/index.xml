@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
+<<<<<<< HEAD
     <title>Cook on Novice Husband... among other things</title>
     <link>https://novicehusband.com/cook/</link>
     <description>Recent content in Cook on Novice Husband... among other things</description>
@@ -23,6 +24,22 @@
       
       <guid>https://novicehusband.com/cook/flat-breads/</guid>
       <description>Every meal should have bread! This makes quite a lot of flat breads.</description>
+=======
+    <title>Cooks on Novice Husband... among other things</title>
+    <link>https://novicehusband.com/cook/</link>
+    <description>Recent content in Cooks on Novice Husband... among other things</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 11 Apr 2022 20:12:55 +1200</lastBuildDate><atom:link href="https://novicehusband.com/cook/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Boiled Eggs</title>
+      <link>https://novicehusband.com/cook/boiled-eggs/</link>
+      <pubDate>Mon, 11 Apr 2022 20:12:55 +1200</pubDate>
+      
+      <guid>https://novicehusband.com/cook/boiled-eggs/</guid>
+      <description>Here are Tanja’s instructions on how she boils eggs.
+The soft eggs have a runny yolk and are very difficult to peel. These are best enjoyed from the shell.</description>
+>>>>>>> 811686a3e08b350ad79bff1f1f7feb6a3eb5ce67
     </item>
     
     <item>

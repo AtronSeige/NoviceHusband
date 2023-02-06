@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
+<<<<<<< HEAD
     <title>Developer on Novice Husband... among other things</title>
     <link>https://novicehusband.com/developer/</link>
     <description>Recent content in Developer on Novice Husband... among other things</description>
+=======
+    <title>n00b on Novice Husband... among other things</title>
+    <link>https://novicehusband.com/developer/</link>
+    <description>Recent content in n00b on Novice Husband... among other things</description>
+>>>>>>> 811686a3e08b350ad79bff1f1f7feb6a3eb5ce67
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 12 May 2022 21:23:48 +1200</lastBuildDate><atom:link href="https://novicehusband.com/developer/index.xml" rel="self" type="application/rss+xml" />
@@ -13,9 +19,16 @@
       <pubDate>Tue, 26 Jul 2022 21:21:35 +1200</pubDate>
       
       <guid>https://novicehusband.com/developer/access-shared-folder/</guid>
+<<<<<<< HEAD
       <description>&lt;p&gt;&lt;strong&gt;Accessing shared directories on a home Microsoft network should not be hard.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;tldr;&lt;/code&gt;&lt;br&gt;
 When accessing a shared directory, use &lt;code&gt;MicrosoftAccount\[username@email.com]&lt;/code&gt;.&lt;/p&gt;</description>
+=======
+      <description>Accessing shared directories on a home Microsoft network should not be hard.
+tldr;
+When accessing a shared directory, use MicrosoftAccount\[username@email.com].
+To access shared directories in a Microsoft environment without having to reduce your security feels weirdly hidden, but the solution is very easy.</description>
+>>>>>>> 811686a3e08b350ad79bff1f1f7feb6a3eb5ce67
     </item>
     
     <item>

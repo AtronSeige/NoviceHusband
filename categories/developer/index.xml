@@ -13,9 +13,16 @@
       <pubDate>Tue, 26 Jul 2022 21:21:35 +1200</pubDate>
       
       <guid>https://novicehusband.com/developer/access-shared-folder/</guid>
+<<<<<<< HEAD
       <description>&lt;p&gt;&lt;strong&gt;Accessing shared directories on a home Microsoft network should not be hard.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;tldr;&lt;/code&gt;&lt;br&gt;
 When accessing a shared directory, use &lt;code&gt;MicrosoftAccount\[username@email.com]&lt;/code&gt;.&lt;/p&gt;</description>
+=======
+      <description>Accessing shared directories on a home Microsoft network should not be hard.
+tldr;
+When accessing a shared directory, use MicrosoftAccount\[username@email.com].
+To access shared directories in a Microsoft environment without having to reduce your security feels weirdly hidden, but the solution is very easy.</description>
+>>>>>>> 811686a3e08b350ad79bff1f1f7feb6a3eb5ce67
     </item>
     
     <item>
@@ -30,12 +37,20 @@ I find these apps useful, so I use this config file.</description>
     </item>
     
     <item>
+<<<<<<< HEAD
       <title>Developer</title>
+=======
+      <title>n00b</title>
+>>>>>>> 811686a3e08b350ad79bff1f1f7feb6a3eb5ce67
       <link>https://novicehusband.com/developer/</link>
       <pubDate>Thu, 12 May 2022 21:23:48 +1200</pubDate>
       
       <guid>https://novicehusband.com/developer/</guid>
+<<<<<<< HEAD
       <description>Trying to code something</description>
+=======
+      <description>HAHAHAHAHA</description>
+>>>>>>> 811686a3e08b350ad79bff1f1f7feb6a3eb5ce67
     </item>
     
     <item>

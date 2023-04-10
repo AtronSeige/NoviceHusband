@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>VSCode on Novice Husband... among other things</title>
+    <link>https://novicehusband.com/tags/vscode/</link>
+    <description>Recent content in VSCode on Novice Husband... among other things</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 06 Feb 2023 14:03:26 +1300</lastBuildDate><atom:link href="https://novicehusband.com/tags/vscode/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vs Code - Copy Without Formatting</title>
+      <link>https://novicehusband.com/developer/vs-code-copy-without-formatting/</link>
+      <pubDate>Mon, 06 Feb 2023 14:03:26 +1300</pubDate>
+      
+      <guid>https://novicehusband.com/developer/vs-code-copy-without-formatting/</guid>
+      <description>Copy from VSCode without formatting</description>
+    </item>
+    
+  </channel>
+</rss>

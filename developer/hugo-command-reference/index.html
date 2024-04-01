@@ -14,6 +14,7 @@
 <meta property="article:published_time" content="2021-12-06T21:17:48+13:00" />
 <meta property="article:modified_time" content="2021-12-06T21:17:48+13:00" />
 
+
 		<meta itemprop="name" content="Hugo Command Reference">
 <meta itemprop="description" content="Instead of constantly googling the same things that I need to do to update my site, I decided that it would be easiest to just create a page with all the commands."><meta itemprop="datePublished" content="2021-12-06T21:17:48+13:00" />
 <meta itemprop="dateModified" content="2021-12-06T21:17:48+13:00" />
@@ -75,9 +76,9 @@
   <ul>
     <li><a href="#create-a-new-page">Create a new page</a></li>
     <li><a href="#run-a-local-server">Run a local server</a></li>
+    <li><a href="#build-the-static-pages">Build the static pages</a></li>
     <li><a href="#commit-changes">Commit changes</a></li>
     <li><a href="#push-changes-to-git">Push changes to git</a></li>
-    <li><a href="#build-the-static-pages">Build the static pages</a></li>
     <li><a href="#push-to-public-git-repo">Push to public git repo</a></li>
   </ul>
 </nav>
@@ -90,6 +91,9 @@
 <h2 id="run-a-local-server">Run a local server</h2>
 <p><code>hugo server -D</code></p>
 <p>This will publish a local version on https://localhost:1313. This will include pages that are marked as Draft versions. Check that everything is working as expected and either make changes, or continue to add the files to the private git repo.</p>
+<h2 id="build-the-static-pages">Build the static pages</h2>
+<p><code>hugo</code></p>
+<p>This will build the static pages that are marked as <code>draft:false</code>. You can now commit the files and push to the git repo. The files will be published to the directory that you specified in the config file, or to the default <code>.\publish</code> folder.</p>
 <h2 id="commit-changes">Commit changes</h2>
 <p><code>git add *</code></p>
 <p>Add all the new files to the git working set.</p>
@@ -98,9 +102,6 @@
 <h2 id="push-changes-to-git">Push changes to git</h2>
 <p><code>git push</code></p>
 <p>Push the changes to the remote repo.</p>
-<h2 id="build-the-static-pages">Build the static pages</h2>
-<p><code>hugo</code></p>
-<p>This will build the static pages that are marked as <code>draft:false</code>. You can now commit the files and push to the git repo. The files will be published to the directory that you specified in the config file, or to the default <code>.\publish</code> folder.</p>
 <h2 id="push-to-public-git-repo">Push to public git repo</h2>
 <p>Now you can commit the static pages to the public git repo so that your site will be updated. :)</p>
 
@@ -164,11 +165,11 @@
 	<h4 class="widget__title">Recent Posts</h4>
 	<div class="widget__content">
 		<ul class="widget__list">
+			<li class="widget__item"><a class="widget__link" href="/brewer/tilt-hydrometer-calibration/">Tilt Hydrometer Calibration</a></li>
+			<li class="widget__item"><a class="widget__link" href="/brewer/angry-water/">Angry Water aka Soda Water</a></li>
+			<li class="widget__item"><a class="widget__link" href="/repairman/electricity101/">Electricity 101</a></li>
 			<li class="widget__item"><a class="widget__link" href="/artist/beer-crown-epoxy-frame/">Beer Crown Epoxy Frame</a></li>
 			<li class="widget__item"><a class="widget__link" href="/developer/vs-code-copy-without-formatting/">Vs Code - Copy Without Formatting</a></li>
-			<li class="widget__item"><a class="widget__link" href="/brewer/fermentation-temperature-controller-hack/">Fermentation Temperature Controller Hack</a></li>
-			<li class="widget__item"><a class="widget__link" href="/brewer/suppliers-in-chch/">Brewing suppliers in Chch</a></li>
-			<li class="widget__item"><a class="widget__link" href="/cook/greek-salad/">Greek Salad</a></li>
 		</ul>
 	</div>
 </div>
@@ -206,8 +207,10 @@
 		<a class="widget-taglist__link widget__link btn" href="/tags/hugo/" title="hugo">hugo</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/ingredients/" title="ingredients">ingredients</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/kegs/" title="kegs">kegs</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/non-alcoholic/" title="non-alcoholic">non-alcoholic</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/salad/" title="salad">salad</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/temperature/" title="temperature">temperature</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/tilt/" title="tilt">tilt</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/vscode/" title="VSCode">VSCode</a>
 	</div>
 </div>
@@ -242,7 +245,7 @@
 	<div class="container footer__container flex">
 		
 		<div class="footer__copyright">
-			&copy; 2023 Atron Seige.
+			&copy; 2024 Atron Seige.
 			<span class="footer__copyright-credits">Generated with <a href="https://gohugo.io/" rel="nofollow noopener" target="_blank">Hugo</a> and <a href="https://github.com/Vimux/Mainroad/" rel="nofollow noopener" target="_blank">Mainroad</a> theme.</span>
 		</div>
 	</div>

@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>brewer on Novice Husband... among other things</title>
+    <title>Brewer on Novice Husband... among other things</title>
     <link>https://novicehusband.com/categories/brewer/</link>
-    <description>Recent content in brewer on Novice Husband... among other things</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Brewer on Novice Husband... among other things</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Apr 2024 15:44:36 +1300</lastBuildDate>
+    <lastBuildDate>Mon, 22 Apr 2024 15:50:53 +1200</lastBuildDate>
     <atom:link href="https://novicehusband.com/categories/brewer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Paa5</title>
+      <link>https://novicehusband.com/brewer/paa5/</link>
+      <pubDate>Mon, 22 Apr 2024 15:50:53 +1200</pubDate>
+      <guid>https://novicehusband.com/brewer/paa5/</guid>
+      <description>Placeholder.</description>
+    </item>
     <item>
       <title>Tilt Hydrometer Calibration</title>
       <link>https://novicehusband.com/brewer/tilt-hydrometer-calibration/</link>
@@ -27,30 +34,21 @@
       <link>https://novicehusband.com/brewer/fermentation-temperature-controller-hack/</link>
       <pubDate>Mon, 06 Feb 2023 12:35:23 +1300</pubDate>
       <guid>https://novicehusband.com/brewer/fermentation-temperature-controller-hack/</guid>
-      <description>My existing fermenter is a Ss Brewtech Chronical - Brewmaster Edition with a FTSs controller. The controller powers a pump that is immersed in cold water.</description>
+      <description>My existing fermentor is a SS Brewtech Chronical - Brewmaster Edition with a FTSs controller. The controller powers a pump that is immersed in cold water.</description>
     </item>
     <item>
       <title>Brewing suppliers in Chch</title>
       <link>https://novicehusband.com/brewer/suppliers-in-chch/</link>
       <pubDate>Mon, 06 Feb 2023 11:41:43 +1300</pubDate>
       <guid>https://novicehusband.com/brewer/suppliers-in-chch/</guid>
-      <description>A convenient list of places to get brewing related things. I include online stores as they ship to Chch.
-This is not an exhaustive list. These are the ones that I use, or ones that I have been recommended.</description>
+      <description>A convenient list of places to get brewing related things. I include online stores as they ship to Chch. This is not an exhaustive list. These are the ones that I use, or ones that I have been recommended.</description>
     </item>
     <item>
-      <title>brewer</title>
-      <link>https://novicehusband.com/brewer/</link>
-      <pubDate>Thu, 12 May 2022 21:23:48 +1200</pubDate>
-      <guid>https://novicehusband.com/brewer/</guid>
-      <description>Trying to brew something</description>
-    </item>
-    <item>
-      <title>Fivestar PBW</title>
-      <link>https://novicehusband.com/brewer/fivestar-pbw/</link>
+      <title>Pro Brewers Wash (PBW)</title>
+      <link>https://novicehusband.com/brewer/pro-brewers-wash/</link>
       <pubDate>Sun, 20 Mar 2022 13:29:32 +1300</pubDate>
-      <guid>https://novicehusband.com/brewer/fivestar-pbw/</guid>
-      <description>PBW is made by Five Star Chemicals.
-It can be re-used for only a 12 hour period&amp;hellip; So the manufacturer says. :) I have found that I can re-use the solution many times.</description>
+      <guid>https://novicehusband.com/brewer/pro-brewers-wash/</guid>
+      <description>Effective substitute for caustic soda cleaners and household cleaners</description>
     </item>
     <item>
       <title>Force Carbonation</title>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Phishing on Novice Husband... among other things</title>
+    <link>http://localhost:1313/tags/phishing/</link>
+    <description>Recent content in Phishing on Novice Husband... among other things</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 06 Nov 2022 11:42:25 +1300</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/phishing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Online Health - Is It a Scam?</title>
+      <link>http://localhost:1313/developer/online-health-is-it-a-scam/</link>
+      <pubDate>Sun, 06 Nov 2022 11:42:25 +1300</pubDate>
+      <guid>http://localhost:1313/developer/online-health-is-it-a-scam/</guid>
+      <description>Scams are everywhere and the scammers are getting more advanced. This is a short few notes on attempting to identify a scam.</description>
+    </item>
+  </channel>
+</rss>

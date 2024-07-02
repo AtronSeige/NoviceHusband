@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Detergent on Novice Husband... among other things</title>
+    <link>http://localhost:1313/categories/detergent/</link>
+    <description>Recent content in Detergent on Novice Husband... among other things</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 22 Apr 2024 15:51:24 +1200</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/detergent/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>All Go</title>
+      <link>http://localhost:1313/brewer/all-go/</link>
+      <pubDate>Mon, 22 Apr 2024 15:51:24 +1200</pubDate>
+      <guid>http://localhost:1313/brewer/all-go/</guid>
+      <description>All Go, a low foaming beer system detergent by EcoChem</description>
+    </item>
+  </channel>
+</rss>

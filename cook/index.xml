@@ -2,39 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cook on Novice Husband... among other things</title>
-    <link>https://novicehusband.com/cook/</link>
+    <link>http://localhost:1313/cook/</link>
     <description>Recent content in Cook on Novice Husband... among other things</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 May 2022 21:23:48 +1200</lastBuildDate>
-    <atom:link href="https://novicehusband.com/cook/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 22 Apr 2024 20:01:07 +1200</lastBuildDate>
+    <atom:link href="http://localhost:1313/cook/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jaco-naise</title>
+      <link>http://localhost:1313/cook/jaco-nese/</link>
+      <pubDate>Mon, 22 Apr 2024 20:01:07 +1200</pubDate>
+      <guid>http://localhost:1313/cook/jaco-nese/</guid>
+      <description>Think Spaghetti Bolognese, but designed by a single male who does not know how to cook. Serves 4.</description>
+    </item>
+    <item>
+      <title>Bacon</title>
+      <link>http://localhost:1313/cook/bacon/</link>
+      <pubDate>Tue, 24 Oct 2023 17:53:25 +1300</pubDate>
+      <guid>http://localhost:1313/cook/bacon/</guid>
+      <description>Slow baking bacon so that you can do all the other breakfast things.</description>
+    </item>
+    <item>
+      <title>Harissa</title>
+      <link>http://localhost:1313/cook/harissa/</link>
+      <pubDate>Sat, 22 Oct 2022 16:55:21 +1300</pubDate>
+      <guid>http://localhost:1313/cook/harissa/</guid>
+      <description>A recipe for Harissa that I got at Riverside Ktichen</description>
+    </item>
     <item>
       <title>Greek Salad</title>
-      <link>https://novicehusband.com/cook/greek-salad/</link>
+      <link>http://localhost:1313/cook/greek-salad/</link>
       <pubDate>Tue, 27 Sep 2022 21:23:12 +1300</pubDate>
-      <guid>https://novicehusband.com/cook/greek-salad/</guid>
+      <guid>http://localhost:1313/cook/greek-salad/</guid>
       <description>How to make a large Greek Salad.</description>
     </item>
     <item>
       <title>Flat Breads</title>
-      <link>https://novicehusband.com/cook/flat-breads/</link>
+      <link>http://localhost:1313/cook/flat-breads/</link>
       <pubDate>Tue, 27 Sep 2022 21:06:29 +1300</pubDate>
-      <guid>https://novicehusband.com/cook/flat-breads/</guid>
+      <guid>http://localhost:1313/cook/flat-breads/</guid>
       <description>Every meal should have bread! This makes quite a lot of flat breads.</description>
     </item>
     <item>
       <title>Boiled Eggs</title>
-      <link>https://novicehusband.com/cook/boiled-eggs/</link>
+      <link>http://localhost:1313/cook/boiled-eggs/</link>
       <pubDate>Mon, 11 Apr 2022 20:12:55 +1200</pubDate>
-      <guid>https://novicehusband.com/cook/boiled-eggs/</guid>
-      <description>Here are Tanja’s instructions on how she boils eggs.
-The soft eggs have a runny yolk and are very difficult to peel. These are best enjoyed from the shell.</description>
+      <guid>http://localhost:1313/cook/boiled-eggs/</guid>
+      <description>Truth, Justice, Freedom, Reasonably Priced Love, and a Hard-Boiled Egg! (Sir Terry Pratchett)</description>
+    </item>
+    <item>
+      <title>Frozen Mixed Veg</title>
+      <link>http://localhost:1313/cook/frozen-mixed-veg/</link>
+      <pubDate>Tue, 22 Mar 2022 21:52:08 +1300</pubDate>
+      <guid>http://localhost:1313/cook/frozen-mixed-veg/</guid>
+      <description>half bag ??? weight&#xA;tbsp butter/margerine&#xA;stove on 4/10&#xA;salt pepper ??? amounts&#xA;Stir&#xA;Time ???&#xA;complete/ready check?</description>
+    </item>
+    <item>
+      <title>Chicken Thighs</title>
+      <link>http://localhost:1313/cook/chicken-thighs/</link>
+      <pubDate>Tue, 22 Mar 2022 20:59:52 +1300</pubDate>
+      <guid>http://localhost:1313/cook/chicken-thighs/</guid>
+      <description>from frozen&#xA;4 thighs (bone in) size of an adult man fist&#xA;oven 200C top and bottom element&#xA;line baking tray with BAking paper&#xA;salt pepper (white) ginger paprika</description>
+    </item>
+    <item>
+      <title>Rump Steak</title>
+      <link>http://localhost:1313/cook/rump-steak/</link>
+      <pubDate>Tue, 22 Mar 2022 20:38:13 +1300</pubDate>
+      <guid>http://localhost:1313/cook/rump-steak/</guid>
+      <description>weight 900g&#xA;heat oven to 180C (top and bottom element)&#xA;large thick bottomed stainless steel pan&#xA;stove 6/10&#xA;sear, starting fat first, hold for 30 seconds on each side</description>
     </item>
     <item>
       <title>Burning Water</title>
-      <link>https://novicehusband.com/cook/burning-water/</link>
+      <link>http://localhost:1313/cook/burning-water/</link>
       <pubDate>Tue, 07 Dec 2021 21:34:09 +1300</pubDate>
-      <guid>https://novicehusband.com/cook/burning-water/</guid>
+      <guid>http://localhost:1313/cook/burning-water/</guid>
       <description>I am not good at cooking I never really cared about cooking, which meant that my skills in cooking was limited to burning water. O_O</description>
     </item>
   </channel>

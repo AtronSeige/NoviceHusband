@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>cook on Novice Husband... among other things</title>
+    <title>Cook on Novice Husband... among other things</title>
     <link>https://novicehusband.com/categories/cook/</link>
-    <description>Recent content in cook on Novice Husband... among other things</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Cook on Novice Husband... among other things</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 27 Sep 2022 21:23:12 +1300</lastBuildDate>
     <atom:link href="https://novicehusband.com/categories/cook/index.xml" rel="self" type="application/rss+xml" />
@@ -23,19 +23,11 @@
       <description>Every meal should have bread! This makes quite a lot of flat breads.</description>
     </item>
     <item>
-      <title>Cook</title>
-      <link>https://novicehusband.com/cook/</link>
-      <pubDate>Thu, 12 May 2022 21:23:48 +1200</pubDate>
-      <guid>https://novicehusband.com/cook/</guid>
-      <description>Cook something</description>
-    </item>
-    <item>
       <title>Boiled Eggs</title>
       <link>https://novicehusband.com/cook/boiled-eggs/</link>
       <pubDate>Mon, 11 Apr 2022 20:12:55 +1200</pubDate>
       <guid>https://novicehusband.com/cook/boiled-eggs/</guid>
-      <description>Here are Tanja’s instructions on how she boils eggs.
-The soft eggs have a runny yolk and are very difficult to peel. These are best enjoyed from the shell.</description>
+      <description>Truth, Justice, Freedom, Reasonably Priced Love, and a Hard-Boiled Egg! (Sir Terry Pratchett)</description>
     </item>
     <item>
       <title>Burning Water</title>

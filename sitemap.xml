@@ -2,14 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://novicehusband.com/</loc>
+    <lastmod>2024-05-05T15:55:15+12:00</lastmod>
+  </url><url>
     <loc>https://novicehusband.com/categories/brewer/</loc>
-    <lastmod>2024-04-01T15:44:36+13:00</lastmod>
+    <lastmod>2024-04-22T15:50:53+12:00</lastmod>
   </url><url>
     <loc>https://novicehusband.com/categories/</loc>
-    <lastmod>2024-04-01T15:44:36+13:00</lastmod>
+    <lastmod>2024-04-22T15:50:53+12:00</lastmod>
   </url><url>
-    <loc>https://novicehusband.com/</loc>
-    <lastmod>2024-04-01T15:44:36+13:00</lastmod>
+    <loc>https://novicehusband.com/brewer/paa5/</loc>
+    <lastmod>2024-04-22T15:50:53+12:00</lastmod>
   </url><url>
     <loc>https://novicehusband.com/tags/</loc>
     <lastmod>2024-04-01T15:44:36+13:00</lastmod>
@@ -33,9 +36,6 @@
     <lastmod>2023-08-23T20:31:57+12:00</lastmod>
   </url><url>
     <loc>https://novicehusband.com/categories/artist/</loc>
-    <lastmod>2023-04-10T12:56:47+12:00</lastmod>
-  </url><url>
-    <loc>https://novicehusband.com/artist/</loc>
     <lastmod>2023-04-10T12:56:47+12:00</lastmod>
   </url><url>
     <loc>https://novicehusband.com/artist/beer-crown-epoxy-frame/</loc>
@@ -98,25 +98,16 @@
     <loc>https://novicehusband.com/developer/chocolatey/</loc>
     <lastmod>2022-07-05T20:26:23+13:00</lastmod>
   </url><url>
-    <loc>https://novicehusband.com/brewer/</loc>
-    <lastmod>2022-05-12T21:23:48+12:00</lastmod>
-  </url><url>
-    <loc>https://novicehusband.com/cook/</loc>
-    <lastmod>2022-05-12T21:23:48+12:00</lastmod>
-  </url><url>
-    <loc>https://novicehusband.com/developer/</loc>
-    <lastmod>2022-05-12T21:23:48+12:00</lastmod>
-  </url><url>
     <loc>https://novicehusband.com/categories/husband/</loc>
     <lastmod>2022-05-12T21:23:48+12:00</lastmod>
   </url><url>
     <loc>https://novicehusband.com/husband/</loc>
     <lastmod>2022-05-12T21:23:48+12:00</lastmod>
   </url><url>
-    <loc>https://novicehusband.com/categories/kiwi/</loc>
+    <loc>https://novicehusband.com/kiwi/</loc>
     <lastmod>2022-05-12T21:23:48+12:00</lastmod>
   </url><url>
-    <loc>https://novicehusband.com/kiwi/</loc>
+    <loc>https://novicehusband.com/categories/kiwi/</loc>
     <lastmod>2022-05-12T21:23:48+12:00</lastmod>
   </url><url>
     <loc>https://novicehusband.com/repairman/</loc>
@@ -125,7 +116,13 @@
     <loc>https://novicehusband.com/cook/boiled-eggs/</loc>
     <lastmod>2022-04-11T20:12:55+12:00</lastmod>
   </url><url>
-    <loc>https://novicehusband.com/brewer/fivestar-pbw/</loc>
+    <loc>https://novicehusband.com/tags/eggs/</loc>
+    <lastmod>2022-04-11T20:12:55+12:00</lastmod>
+  </url><url>
+    <loc>https://novicehusband.com/tags/detergent/</loc>
+    <lastmod>2022-03-20T13:29:32+13:00</lastmod>
+  </url><url>
+    <loc>https://novicehusband.com/brewer/pro-brewers-wash/</loc>
     <lastmod>2022-03-20T13:29:32+13:00</lastmod>
   </url><url>
     <loc>https://novicehusband.com/brewer/force-carbonation/</loc>

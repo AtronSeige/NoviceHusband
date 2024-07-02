@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>developer on Novice Husband... among other things</title>
+    <title>Developer on Novice Husband... among other things</title>
     <link>https://novicehusband.com/categories/developer/</link>
-    <description>Recent content in developer on Novice Husband... among other things</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Developer on Novice Husband... among other things</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 06 Feb 2023 14:03:26 +1300</lastBuildDate>
     <atom:link href="https://novicehusband.com/categories/developer/index.xml" rel="self" type="application/rss+xml" />
@@ -20,25 +20,14 @@
       <link>https://novicehusband.com/developer/access-shared-folder/</link>
       <pubDate>Tue, 26 Jul 2022 21:21:35 +1200</pubDate>
       <guid>https://novicehusband.com/developer/access-shared-folder/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Accessing shared directories on a home Microsoft network should not be hard.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;tldr;&lt;/code&gt;&lt;br&gt;
-When accessing a shared directory, use &lt;code&gt;MicrosoftAccount\[username@email.com]&lt;/code&gt;.&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;Accessing shared directories on a home Microsoft network should not be hard.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;code&gt;tldr;&lt;/code&gt;&lt;br&gt;&#xA;When accessing a shared directory, use &lt;code&gt;MicrosoftAccount\[username@email.com]&lt;/code&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Chocolatey</title>
       <link>https://novicehusband.com/developer/chocolatey/</link>
       <pubDate>Tue, 05 Jul 2022 20:26:23 +1300</pubDate>
       <guid>https://novicehusband.com/developer/chocolatey/</guid>
-      <description>Link https://docs.chocolatey.org/en-us/
-Useful apps Create a package.config file in a folder that you prefer.
-I find these apps useful, so I use this config file.</description>
-    </item>
-    <item>
-      <title>Developer</title>
-      <link>https://novicehusband.com/developer/</link>
-      <pubDate>Thu, 12 May 2022 21:23:48 +1200</pubDate>
-      <guid>https://novicehusband.com/developer/</guid>
-      <description>Trying to code something</description>
+      <description>Link https://docs.chocolatey.org/en-us/&#xA;Useful apps Create a package.config file in a folder that you prefer.&#xA;I find these apps useful, so I use this config file.</description>
     </item>
     <item>
       <title>Hugo Command Reference</title>
@@ -52,16 +41,14 @@ I find these apps useful, so I use this config file.</description>
       <link>https://novicehusband.com/developer/hugo-setup/</link>
       <pubDate>Tue, 02 Nov 2021 21:18:29 +1300</pubDate>
       <guid>https://novicehusband.com/developer/hugo-setup/</guid>
-      <description>I am using hugo to publish my static site.
-As simple as expected! I followed these steps, with more information from the starting info page.</description>
+      <description>I am using hugo to publish my static site.&#xA;As simple as expected! I followed these steps, with more information from the starting info page.</description>
     </item>
     <item>
       <title>Hello World!</title>
       <link>https://novicehusband.com/developer/hello-world/</link>
       <pubDate>Tue, 02 Nov 2021 20:47:53 +1300</pubDate>
       <guid>https://novicehusband.com/developer/hello-world/</guid>
-      <description>First! I have a new site! Yay!
-Here is a picture of a dandylion. </description>
+      <description>First! I have a new site! Yay!&#xA;Here is a picture of a dandylion. </description>
     </item>
   </channel>
 </rss>

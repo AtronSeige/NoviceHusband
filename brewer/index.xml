@@ -6,8 +6,22 @@
     <description>Recent content in Brewer on Novice Husband... among other things</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 22 Apr 2024 15:51:24 +1200</lastBuildDate>
+    <lastBuildDate>Sat, 30 Nov 2024 12:27:21 +1300</lastBuildDate>
     <atom:link href="http://localhost:1313/brewer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ginger beer (No/Low Alcohol)</title>
+      <link>http://localhost:1313/brewer/ginger-beer-no-low-alcohol/</link>
+      <pubDate>Sat, 30 Nov 2024 12:27:21 +1300</pubDate>
+      <guid>http://localhost:1313/brewer/ginger-beer-no-low-alcohol/</guid>
+      <description>A refreshing drink that my mom and grandma used to make. Now that I know more about fermentation, I am wondering how many times we were drunk.</description>
+    </item>
+    <item>
+      <title>Brewday Timeline</title>
+      <link>http://localhost:1313/brewer/brewday-timeline/</link>
+      <pubDate>Sun, 18 Aug 2024 18:06:06 +1200</pubDate>
+      <guid>http://localhost:1313/brewer/brewday-timeline/</guid>
+      <description>prep for kegging: 90 kegging : 30 cleaning: 90 Prep: 60 Mash 90 post mash 30 boil 75 post boil 30 Fermenter 30 clean 60</description>
+    </item>
     <item>
       <title>All Go</title>
       <link>http://localhost:1313/brewer/all-go/</link>
@@ -20,7 +34,7 @@
       <link>http://localhost:1313/brewer/paa5/</link>
       <pubDate>Mon, 22 Apr 2024 15:50:53 +1200</pubDate>
       <guid>http://localhost:1313/brewer/paa5/</guid>
-      <description>Quick notes on the use of PAA5.</description>
+      <description>A powerful sanitiser effective against bacteria and their spores, yeasts, moulds, fungi, and their spores, and viruses</description>
     </item>
     <item>
       <title>Tilt Hydrometer Calibration</title>

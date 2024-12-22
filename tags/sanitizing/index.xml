@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sanitizing on Novice Husband... among other things</title>
-    <link>http://localhost:1313/tags/sanitizing/</link>
+    <link>https://novicehusband.com/tags/sanitizing/</link>
     <description>Recent content in Sanitizing on Novice Husband... among other things</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 18 Jan 2024 21:36:26 +1300</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/sanitizing/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://novicehusband.com/tags/sanitizing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Star San</title>
-      <link>http://localhost:1313/brewer/star-san/</link>
+      <link>https://novicehusband.com/brewer/star-san/</link>
       <pubDate>Thu, 18 Jan 2024 21:36:26 +1300</pubDate>
-      <guid>http://localhost:1313/brewer/star-san/</guid>
+      <guid>https://novicehusband.com/brewer/star-san/</guid>
       <description>Quick notes on the use of Star San.</description>
     </item>
   </channel>

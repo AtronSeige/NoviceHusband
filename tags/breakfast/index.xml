@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Breakfast on Novice Husband... among other things</title>
-    <link>http://localhost:1313/tags/breakfast/</link>
+    <link>https://novicehusband.com/tags/breakfast/</link>
     <description>Recent content in Breakfast on Novice Husband... among other things</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 24 Oct 2023 17:53:25 +1300</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/breakfast/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://novicehusband.com/tags/breakfast/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bacon</title>
-      <link>http://localhost:1313/cook/bacon/</link>
+      <link>https://novicehusband.com/cook/bacon/</link>
       <pubDate>Tue, 24 Oct 2023 17:53:25 +1300</pubDate>
-      <guid>http://localhost:1313/cook/bacon/</guid>
+      <guid>https://novicehusband.com/cook/bacon/</guid>
       <description>Slow baking bacon so that you can do all the other breakfast things.</description>
     </item>
   </channel>

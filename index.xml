@@ -6,8 +6,15 @@
     <description>Recent content on Novice Husband... among other things</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 30 Nov 2024 12:27:21 +1300</lastBuildDate>
+    <lastBuildDate>Sun, 22 Dec 2024 18:49:40 +1300</lastBuildDate>
     <atom:link href="https://novicehusband.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SQL - Thousands Separator</title>
+      <link>https://novicehusband.com/developer/sql-thousands-separator/</link>
+      <pubDate>Sun, 22 Dec 2024 18:49:40 +1300</pubDate>
+      <guid>https://novicehusband.com/developer/sql-thousands-separator/</guid>
+      <description>Useful for making large numbers more readable.</description>
+    </item>
     <item>
       <title>Ginger beer (No/Low Alcohol)</title>
       <link>https://novicehusband.com/brewer/ginger-beer-no-low-alcohol/</link>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sql on Novice Husband... among other things</title>
+    <link>https://novicehusband.com/tags/sql/</link>
+    <description>Recent content in Sql on Novice Husband... among other things</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 22 Dec 2024 18:49:40 +1300</lastBuildDate>
+    <atom:link href="https://novicehusband.com/tags/sql/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SQL - Thousands Separator</title>
+      <link>https://novicehusband.com/developer/sql-thousands-separator/</link>
+      <pubDate>Sun, 22 Dec 2024 18:49:40 +1300</pubDate>
+      <guid>https://novicehusband.com/developer/sql-thousands-separator/</guid>
+      <description>Useful for making large numbers more readable.</description>
+    </item>
+  </channel>
+</rss>

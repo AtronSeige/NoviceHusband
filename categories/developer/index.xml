@@ -6,8 +6,15 @@
     <description>Recent content in Developer on Novice Husband... among other things</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 Feb 2023 14:03:26 +1300</lastBuildDate>
+    <lastBuildDate>Sun, 22 Dec 2024 18:49:40 +1300</lastBuildDate>
     <atom:link href="https://novicehusband.com/categories/developer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SQL - Thousands Separator</title>
+      <link>https://novicehusband.com/developer/sql-thousands-separator/</link>
+      <pubDate>Sun, 22 Dec 2024 18:49:40 +1300</pubDate>
+      <guid>https://novicehusband.com/developer/sql-thousands-separator/</guid>
+      <description>Useful for making large numbers more readable.</description>
+    </item>
     <item>
       <title>Vs Code - Copy Without Formatting</title>
       <link>https://novicehusband.com/developer/vs-code-copy-without-formatting/</link>

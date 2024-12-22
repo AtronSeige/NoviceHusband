@@ -3,24 +3,31 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>Kegs - Novice Husband... among other things</title>
+	<title>SQL - Thousands Separator - Novice Husband... among other things</title>
 	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
 	<meta name="description" content="">
-		<meta property="og:url" content="https://novicehusband.com/tags/kegs/">
+		<meta property="og:url" content="https://novicehusband.com/developer/sql-thousands-separator/">
   <meta property="og:site_name" content="Novice Husband... among other things">
-  <meta property="og:title" content="Kegs">
-  <meta property="og:description" content="Blogging about being a novice.">
+  <meta property="og:title" content="SQL - Thousands Separator">
+  <meta property="og:description" content="Useful for making large numbers more readable.">
   <meta property="og:locale" content="en_us">
-  <meta property="og:type" content="website">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="developer">
+    <meta property="article:published_time" content="2024-12-22T18:49:40+13:00">
+    <meta property="article:modified_time" content="2024-12-22T18:49:40+13:00">
+    <meta property="article:tag" content="Sql">
 
 		
-  <meta itemprop="name" content="Kegs">
-  <meta itemprop="description" content="Blogging about being a novice.">
-  <meta itemprop="dateModified" content="2021-12-15T22:04:51+13:00">
+  <meta itemprop="name" content="SQL - Thousands Separator">
+  <meta itemprop="description" content="Useful for making large numbers more readable.">
+  <meta itemprop="datePublished" content="2024-12-22T18:49:40+13:00">
+  <meta itemprop="dateModified" content="2024-12-22T18:49:40+13:00">
+  <meta itemprop="wordCount" content="12">
+  <meta itemprop="keywords" content="Sql">
 		
   <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="Kegs">
-  <meta name="twitter:description" content="Blogging about being a novice.">
+  <meta name="twitter:title" content="SQL - Thousands Separator">
+  <meta name="twitter:description" content="Useful for making large numbers more readable.">
 
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 	<link rel="dns-prefetch" href="//fonts.googleapis.com">
@@ -29,7 +36,6 @@
 
 	<link rel="stylesheet" href="/css/style.css">
 	<link rel="stylesheet" href="/css/custom.css">
-	<link rel="alternate" type="application/rss+xml" href="/tags/kegs/index.xml" title="Novice Husband... among other things">
 
 	<link rel="shortcut icon" href="/favicon.ico">
 </head>
@@ -54,35 +60,62 @@
 		<div class="wrapper flex">
 			<div class="primary">
 			
-<main class="main list" role="main">
-	<header class="main__header">
-		<h1 class="main__title">Kegs</h1>
-	</header><article class="list__item post">
-	
-	<header class="list__header">
-		<h2 class="list__title post__title">
-			<a href="/brewer/force-carbonation/" rel="bookmark">
-			Force Carbonation
-			</a>
-		</h2>
-		<div class="list__meta meta"><div class="meta__item-author meta__item">
+<main class="main" role="main">
+	<article class="post">
+		<header class="post__header">
+			<h1 class="post__title">SQL - Thousands Separator</h1>
+			<div class="post__meta meta"><div class="meta__item-author meta__item">
 	<svg class="meta__icon icon icon-author" width="16" height="16" viewBox="0 0 16 16"><path d="M8 1c2 0 3.5 2 3.5 4.5S10 9 10 9c3 1 4 2 4 6H2c0-4 1-5 4-6 0 0-1.5-1-1.5-3.5S6 1 8 1"/></svg><span class="meta__text">Atron Seige</span>
 </div>
 <div class="meta__item-datetime meta__item">
-	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0a14 14 0 1 1 0 28 1 1 0 0 1 0-28m0 3a3 3 0 1 0 0 22 3 3 0 0 0 0-22m1 4h-2v8.4l6.8 4.4L22 18l-6-3.8z"/></svg><time class="meta__text" datetime="2021-12-15T22:04:51&#43;13:00">2021-12-15</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2 1 2h8v11H0V2z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/brewer/" rel="category">Brewer</a>
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0a14 14 0 1 1 0 28 1 1 0 0 1 0-28m0 3a3 3 0 1 0 0 22 3 3 0 0 0 0-22m1 4h-2v8.4l6.8 4.4L22 18l-6-3.8z"/></svg><time class="meta__text" datetime="2024-12-22T18:49:40&#43;13:00">2024-12-22</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2 1 2h8v11H0V2z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/developer/" rel="category">Developer</a>
 	</span>
 </div></div>
-	</header>
-	<div class="content list__excerpt post__content clearfix">
-		Once kegged your beer needs to be carbonated. I am struggling to get the levels right, but for now these are the steps that I take.
-	</div>
-</article>
+		</header>
+		<div class="content post__content clearfix">
+			<p>Show large numbers with thousands separators:</p>
+<p>Instead of 123456789, 123,456,789</p>
+<pre tabindex="0"><code>SELECT FORMAT(@start,&#39;#,0&#39;)
+</code></pre>
+		</div>
+		<footer class="post__footer">
+			
+<div class="post__tags tags clearfix">
+	<svg class="tags__badge icon icon-tag" width="16" height="16" viewBox="0 0 32 32"><path d="M4 0h8s2 0 4 2l15 15s2 2 0 4L21 31s-2 2-4 0L2 16s-2-2-2-4V3s0-3 4-3m3 10a3 3 0 0 0 0-6 3 3 0 0 0 0 6"/></svg>
+	<ul class="tags__list">
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/sql/" rel="tag">sql</a>
+		</li>
+	</ul>
+</div>
+		</footer>
+	</article>
 </main>
+
+<div class="authorbox clearfix">
+	<figure class="authorbox__avatar">
+		<img alt="Atron Seige avatar" src="/sharedimages/avatar.png" class="avatar" height="90" width="90">
+	</figure>
+	<div class="authorbox__header">
+		<span class="authorbox__name">About Atron Seige</span>
+	</div>
+	<div class="authorbox__description">
+		I am a novice at many things, even things that I have been doing for years. Here I write about some of them.
+	</div>
+</div>
+
+<nav class="pager flex">
+	<div class="pager__item pager__item--prev">
+		<a class="pager__link" href="/developer/vs-code-copy-without-formatting/" rel="prev">
+			<span class="pager__subtitle">«&thinsp;Previous</span>
+			<p class="pager__title">Vs Code - Copy Without Formatting</p>
+		</a>
+	</div>
+</nav>
 
 
 			</div>
-			
-<aside class="sidebar"><div class="widget-search widget">
+			<aside class="sidebar"><div class="widget-search widget">
 	<form class="widget-search__form" role="search" method="get" action="https://google.com/search">
 		<input class="widget-search__field" type="search" placeholder="SEARCH…" value="" name="q" aria-label="SEARCH…">
 		<input class="widget-search__submit" type="submit" value="Search">
@@ -188,5 +221,7 @@
 </footer>
 	</div>
 <script async defer src="/js/menu.js"></script>
-<script src="/js/custom.js"></script></body>
+<script src="/js/custom.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js?config=TeX-AMS-MML_HTMLorMML" async></script>
+</body>
 </html>

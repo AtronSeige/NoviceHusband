@@ -2,10 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://novicehusband.com/categories/brewer/</loc>
-    <lastmod>2024-11-30T12:27:21+13:00</lastmod>
+    <loc>https://novicehusband.com/</loc>
+    <lastmod>2024-12-22T18:55:35+13:00</lastmod>
   </url><url>
     <loc>https://novicehusband.com/categories/</loc>
+    <lastmod>2024-12-22T18:49:40+13:00</lastmod>
+  </url><url>
+    <loc>https://novicehusband.com/categories/developer/</loc>
+    <lastmod>2024-12-22T18:49:40+13:00</lastmod>
+  </url><url>
+    <loc>https://novicehusband.com/tags/sql/</loc>
+    <lastmod>2024-12-22T18:49:40+13:00</lastmod>
+  </url><url>
+    <loc>https://novicehusband.com/developer/sql-thousands-separator/</loc>
+    <lastmod>2024-12-22T18:49:40+13:00</lastmod>
+  </url><url>
+    <loc>https://novicehusband.com/tags/</loc>
+    <lastmod>2024-12-22T18:49:40+13:00</lastmod>
+  </url><url>
+    <loc>https://novicehusband.com/categories/brewer/</loc>
     <lastmod>2024-11-30T12:27:21+13:00</lastmod>
   </url><url>
     <loc>https://novicehusband.com/tags/ginger-beer/</loc>
@@ -18,12 +33,6 @@
     <lastmod>2024-11-30T12:27:21+13:00</lastmod>
   </url><url>
     <loc>https://novicehusband.com/tags/no-alcohol/</loc>
-    <lastmod>2024-11-30T12:27:21+13:00</lastmod>
-  </url><url>
-    <loc>https://novicehusband.com/</loc>
-    <lastmod>2024-11-30T12:27:21+13:00</lastmod>
-  </url><url>
-    <loc>https://novicehusband.com/tags/</loc>
     <lastmod>2024-11-30T12:27:21+13:00</lastmod>
   </url><url>
     <loc>https://novicehusband.com/brewer/all-go/</loc>
@@ -91,9 +100,6 @@
   </url><url>
     <loc>https://novicehusband.com/artist/beer-crown-epoxy-frame/</loc>
     <lastmod>2023-04-10T12:56:47+12:00</lastmod>
-  </url><url>
-    <loc>https://novicehusband.com/categories/developer/</loc>
-    <lastmod>2023-02-06T14:03:26+13:00</lastmod>
   </url><url>
     <loc>https://novicehusband.com/developer/vs-code-copy-without-formatting/</loc>
     <lastmod>2023-02-06T14:03:26+13:00</lastmod>

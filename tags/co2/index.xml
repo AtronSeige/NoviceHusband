@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CO2 on Novice Husband... among other things</title>
-    <link>https://novicehusband.com/tags/co2/</link>
+    <link>http://localhost:1313/tags/co2/</link>
     <description>Recent content in CO2 on Novice Husband... among other things</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 06 Feb 2023 11:41:43 +1300</lastBuildDate>
-    <atom:link href="https://novicehusband.com/tags/co2/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/co2/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Brewing suppliers in Chch</title>
-      <link>https://novicehusband.com/brewer/suppliers-in-chch/</link>
+      <link>http://localhost:1313/brewer/suppliers-in-chch/</link>
       <pubDate>Mon, 06 Feb 2023 11:41:43 +1300</pubDate>
-      <guid>https://novicehusband.com/brewer/suppliers-in-chch/</guid>
+      <guid>http://localhost:1313/brewer/suppliers-in-chch/</guid>
       <description>A convenient list of places to get brewing related things. I include online stores as they ship to Chch. This is not an exhaustive list. These are the ones that I use, or ones that I have been recommended.</description>
     </item>
     <item>
       <title>Force Carbonation</title>
-      <link>https://novicehusband.com/brewer/force-carbonation/</link>
+      <link>http://localhost:1313/brewer/force-carbonation/</link>
       <pubDate>Wed, 15 Dec 2021 22:04:51 +1300</pubDate>
-      <guid>https://novicehusband.com/brewer/force-carbonation/</guid>
+      <guid>http://localhost:1313/brewer/force-carbonation/</guid>
       <description>Once kegged your beer needs to be carbonated. I am struggling to get the levels right, but for now these are the steps that I take.</description>
     </item>
   </channel>

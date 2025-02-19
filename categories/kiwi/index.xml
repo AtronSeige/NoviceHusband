@@ -2,24 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kiwi on Novice Husband... among other things</title>
-    <link>https://novicehusband.com/categories/kiwi/</link>
+    <link>http://localhost:1313/categories/kiwi/</link>
     <description>Recent content in Kiwi on Novice Husband... among other things</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 12 May 2022 21:23:48 +1200</lastBuildDate>
-    <atom:link href="https://novicehusband.com/categories/kiwi/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/kiwi/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>kiwi</title>
-      <link>https://novicehusband.com/kiwi/</link>
+      <link>http://localhost:1313/kiwi/</link>
       <pubDate>Thu, 12 May 2022 21:23:48 +1200</pubDate>
-      <guid>https://novicehusband.com/kiwi/</guid>
+      <guid>http://localhost:1313/kiwi/</guid>
       <description>Learning about New Zealand</description>
     </item>
     <item>
+      <title>Daylight Hours</title>
+      <link>http://localhost:1313/kiwi/daylight-hours/</link>
+      <pubDate>Mon, 17 Jan 2022 21:40:45 +1300</pubDate>
+      <guid>http://localhost:1313/kiwi/daylight-hours/</guid>
+      <description>What I am used to Coming from South Africa, Johannesburg, I am used to daylight hours in Summer being around 13:30 and Winter around 10:30.</description>
+    </item>
+    <item>
       <title>Kia Ora Aotearoa</title>
-      <link>https://novicehusband.com/kiwi/kia-ora-aotearoa/</link>
+      <link>http://localhost:1313/kiwi/kia-ora-aotearoa/</link>
       <pubDate>Sun, 21 Nov 2021 15:38:11 +1300</pubDate>
-      <guid>https://novicehusband.com/kiwi/kia-ora-aotearoa/</guid>
+      <guid>http://localhost:1313/kiwi/kia-ora-aotearoa/</guid>
       <description>&amp;ldquo;Kia Ora Aotearoa!&amp;rdquo; Kia Ora means Hello in Māori, and Aotearoa means Long White Cloud, which is the Māori name for New Zealand.&#xA;How it all came to pass Tanja got a work offer that allowed us to move to New Zealand.</description>
     </item>
   </channel>

@@ -6,8 +6,29 @@
     <description>Recent content in Developer on Novice Husband... among other things</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Jul 2024 22:06:57 +1200</lastBuildDate>
+    <lastBuildDate>Wed, 19 Feb 2025 21:35:05 +1300</lastBuildDate>
     <atom:link href="http://localhost:1313/developer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SQL Data - Return a Null record if query returns nothing</title>
+      <link>http://localhost:1313/developer/sql-data-return-a-null-record-if-query-returns-nothing/</link>
+      <pubDate>Wed, 19 Feb 2025 21:35:05 +1300</pubDate>
+      <guid>http://localhost:1313/developer/sql-data-return-a-null-record-if-query-returns-nothing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SQL Data - Insert Into Undeclared Temp Table</title>
+      <link>http://localhost:1313/developer/sql-data-insert-into-undeclared-temp-table/</link>
+      <pubDate>Sun, 22 Dec 2024 18:55:35 +1300</pubDate>
+      <guid>http://localhost:1313/developer/sql-data-insert-into-undeclared-temp-table/</guid>
+      <description>Insert data into a undeclared temp table</description>
+    </item>
+    <item>
+      <title>SQL - Thousands Separator</title>
+      <link>http://localhost:1313/developer/sql-thousands-separator/</link>
+      <pubDate>Sun, 22 Dec 2024 18:49:40 +1300</pubDate>
+      <guid>http://localhost:1313/developer/sql-thousands-separator/</guid>
+      <description>Useful for making large numbers more readable.</description>
+    </item>
     <item>
       <title>Git Notes</title>
       <link>http://localhost:1313/developer/git-notes/</link>

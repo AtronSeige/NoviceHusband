@@ -2,59 +2,129 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Developer on Novice Husband... among other things</title>
-    <link>https://novicehusband.com/categories/developer/</link>
+    <link>http://localhost:1313/categories/developer/</link>
     <description>Recent content in Developer on Novice Husband... among other things</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Dec 2024 18:49:40 +1300</lastBuildDate>
-    <atom:link href="https://novicehusband.com/categories/developer/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 22 Dec 2024 18:55:35 +1300</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/developer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SQL Data - Insert Into Undeclared Temp Table</title>
+      <link>http://localhost:1313/developer/sql-data-insert-into-undeclared-temp-table/</link>
+      <pubDate>Sun, 22 Dec 2024 18:55:35 +1300</pubDate>
+      <guid>http://localhost:1313/developer/sql-data-insert-into-undeclared-temp-table/</guid>
+      <description>Insert data into a undeclared temp table</description>
+    </item>
     <item>
       <title>SQL - Thousands Separator</title>
-      <link>https://novicehusband.com/developer/sql-thousands-separator/</link>
+      <link>http://localhost:1313/developer/sql-thousands-separator/</link>
       <pubDate>Sun, 22 Dec 2024 18:49:40 +1300</pubDate>
-      <guid>https://novicehusband.com/developer/sql-thousands-separator/</guid>
+      <guid>http://localhost:1313/developer/sql-thousands-separator/</guid>
       <description>Useful for making large numbers more readable.</description>
     </item>
     <item>
+      <title>Git Notes</title>
+      <link>http://localhost:1313/developer/git-notes/</link>
+      <pubDate>Wed, 17 Jul 2024 22:06:57 +1200</pubDate>
+      <guid>http://localhost:1313/developer/git-notes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Me</title>
+      <link>http://localhost:1313/developer/me/</link>
+      <pubDate>Sun, 05 May 2024 15:55:15 +1200</pubDate>
+      <guid>http://localhost:1313/developer/me/</guid>
+      <description>husband, developer, home brewer, n00b gamer</description>
+    </item>
+    <item>
+      <title>Powershell Scripts</title>
+      <link>http://localhost:1313/developer/powershell-scripts/</link>
+      <pubDate>Mon, 22 Apr 2024 20:22:23 +1200</pubDate>
+      <guid>http://localhost:1313/developer/powershell-scripts/</guid>
+      <description>Get the top 10 records and save it to a different file&#xA;Get-Content &amp;ldquo;C:\start.csv&amp;rdquo; | select -First 10 | Out-File &amp;ldquo;C:\stop.csv&amp;rdquo;&#xA;Find the needle in the file and then save the first 10 to a new file.</description>
+    </item>
+    <item>
+      <title>Git Setup Local</title>
+      <link>http://localhost:1313/developer/git-setup-local/</link>
+      <pubDate>Fri, 02 Feb 2024 14:07:23 +1300</pubDate>
+      <guid>http://localhost:1313/developer/git-setup-local/</guid>
+      <description>How to get a repo from github onto your local computer</description>
+    </item>
+    <item>
       <title>Vs Code - Copy Without Formatting</title>
-      <link>https://novicehusband.com/developer/vs-code-copy-without-formatting/</link>
+      <link>http://localhost:1313/developer/vs-code-copy-without-formatting/</link>
       <pubDate>Mon, 06 Feb 2023 14:03:26 +1300</pubDate>
-      <guid>https://novicehusband.com/developer/vs-code-copy-without-formatting/</guid>
+      <guid>http://localhost:1313/developer/vs-code-copy-without-formatting/</guid>
       <description>Copy from VSCode without formatting</description>
     </item>
     <item>
+      <title>Online Health - Is It a Scam?</title>
+      <link>http://localhost:1313/developer/online-health-is-it-a-scam/</link>
+      <pubDate>Sun, 06 Nov 2022 11:42:25 +1300</pubDate>
+      <guid>http://localhost:1313/developer/online-health-is-it-a-scam/</guid>
+      <description>Scams are everywhere and the scammers are getting more advanced. This is a short few notes on attempting to identify a scam.</description>
+    </item>
+    <item>
       <title>Access Shared MS directory on Home network</title>
-      <link>https://novicehusband.com/developer/access-shared-folder/</link>
+      <link>http://localhost:1313/developer/access-shared-folder/</link>
       <pubDate>Tue, 26 Jul 2022 21:21:35 +1200</pubDate>
-      <guid>https://novicehusband.com/developer/access-shared-folder/</guid>
+      <guid>http://localhost:1313/developer/access-shared-folder/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Accessing shared directories on a home Microsoft network should not be hard.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;code&gt;tldr;&lt;/code&gt;&lt;br&gt;&#xA;When accessing a shared directory, use &lt;code&gt;MicrosoftAccount\[username@email.com]&lt;/code&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Chocolatey</title>
-      <link>https://novicehusband.com/developer/chocolatey/</link>
+      <link>http://localhost:1313/developer/chocolatey/</link>
       <pubDate>Tue, 05 Jul 2022 20:26:23 +1300</pubDate>
-      <guid>https://novicehusband.com/developer/chocolatey/</guid>
+      <guid>http://localhost:1313/developer/chocolatey/</guid>
       <description>Link https://docs.chocolatey.org/en-us/&#xA;Useful apps Create a package.config file in a folder that you prefer.&#xA;I find these apps useful, so I use this config file.</description>
     </item>
     <item>
+      <title>Developer</title>
+      <link>http://localhost:1313/developer/</link>
+      <pubDate>Thu, 12 May 2022 21:23:48 +1200</pubDate>
+      <guid>http://localhost:1313/developer/</guid>
+      <description>Trying to code something</description>
+    </item>
+    <item>
+      <title>Git Setup - Online</title>
+      <link>http://localhost:1313/developer/git-setup-online/</link>
+      <pubDate>Thu, 12 May 2022 20:37:42 +1200</pubDate>
+      <guid>http://localhost:1313/developer/git-setup-online/</guid>
+      <description>Setting up git can be weird and difficult.&#xA;Security wise, hide your email. To get this working, see this link https://stackoverflow.com/questions/43863522/error-your-push-would-publish-a-private-email-address</description>
+    </item>
+    <item>
+      <title>Powershell Profile</title>
+      <link>http://localhost:1313/developer/powershell-profile/</link>
+      <pubDate>Tue, 22 Mar 2022 20:30:15 +1300</pubDate>
+      <guid>http://localhost:1313/developer/powershell-profile/</guid>
+      <description>Powershell profile https://superuser.com/questions/886951/run-powershell-script-when-you-open-powershell&#xA;run this to create the file New-item –type file –force $profile run this to allow the file to run, without giving too much rights Set-ExecutionPolicy RemoteSigned -Scope LocalMachine</description>
+    </item>
+    <item>
+      <title>Local Site Setup</title>
+      <link>http://localhost:1313/developer/local-site-setup/</link>
+      <pubDate>Tue, 22 Mar 2022 20:27:46 +1300</pubDate>
+      <guid>http://localhost:1313/developer/local-site-setup/</guid>
+      <description>git clone https://github.com/AtronSeige/NoviceHusbandSource.git git submodule update &amp;ndash;init &amp;ndash;recursive</description>
+    </item>
+    <item>
       <title>Hugo Command Reference</title>
-      <link>https://novicehusband.com/developer/hugo-command-reference/</link>
+      <link>http://localhost:1313/developer/hugo-command-reference/</link>
       <pubDate>Mon, 06 Dec 2021 21:17:48 +1300</pubDate>
-      <guid>https://novicehusband.com/developer/hugo-command-reference/</guid>
+      <guid>http://localhost:1313/developer/hugo-command-reference/</guid>
       <description>Instead of constantly googling the same things that I need to do to update my site, I decided that it would be easiest to just create a page with all the commands.</description>
     </item>
     <item>
       <title>Hello Hugo!</title>
-      <link>https://novicehusband.com/developer/hugo-setup/</link>
+      <link>http://localhost:1313/developer/hugo-setup/</link>
       <pubDate>Tue, 02 Nov 2021 21:18:29 +1300</pubDate>
-      <guid>https://novicehusband.com/developer/hugo-setup/</guid>
+      <guid>http://localhost:1313/developer/hugo-setup/</guid>
       <description>I am using hugo to publish my static site.&#xA;As simple as expected! I followed these steps, with more information from the starting info page.</description>
     </item>
     <item>
       <title>Hello World!</title>
-      <link>https://novicehusband.com/developer/hello-world/</link>
+      <link>http://localhost:1313/developer/hello-world/</link>
       <pubDate>Tue, 02 Nov 2021 20:47:53 +1300</pubDate>
-      <guid>https://novicehusband.com/developer/hello-world/</guid>
+      <guid>http://localhost:1313/developer/hello-world/</guid>
       <description>First! I have a new site! Yay!&#xA;Here is a picture of a dandylion. </description>
     </item>
   </channel>

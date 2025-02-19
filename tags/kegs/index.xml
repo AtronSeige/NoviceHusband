@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kegs on Novice Husband... among other things</title>
-    <link>https://novicehusband.com/tags/kegs/</link>
+    <link>http://localhost:1313/tags/kegs/</link>
     <description>Recent content in Kegs on Novice Husband... among other things</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Dec 2021 22:04:51 +1300</lastBuildDate>
-    <atom:link href="https://novicehusband.com/tags/kegs/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/kegs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Force Carbonation</title>
-      <link>https://novicehusband.com/brewer/force-carbonation/</link>
+      <link>http://localhost:1313/brewer/force-carbonation/</link>
       <pubDate>Wed, 15 Dec 2021 22:04:51 +1300</pubDate>
-      <guid>https://novicehusband.com/brewer/force-carbonation/</guid>
+      <guid>http://localhost:1313/brewer/force-carbonation/</guid>
       <description>Once kegged your beer needs to be carbonated. I am struggling to get the levels right, but for now these are the steps that I take.</description>
     </item>
   </channel>

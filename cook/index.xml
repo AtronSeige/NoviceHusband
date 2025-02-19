@@ -6,8 +6,15 @@
     <description>Recent content in Cook on Novice Husband... among other things</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 22 Apr 2024 20:01:07 +1200</lastBuildDate>
+    <lastBuildDate>Wed, 19 Feb 2025 21:03:17 +1300</lastBuildDate>
     <atom:link href="http://localhost:1313/cook/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Breakfast Oats</title>
+      <link>http://localhost:1313/cook/breakfast-oats/</link>
+      <pubDate>Wed, 19 Feb 2025 21:03:17 +1300</pubDate>
+      <guid>http://localhost:1313/cook/breakfast-oats/</guid>
+      <description>Serves [Number of people]&#xA;Ingredients [List all ingredients] Equipment [List all equipment] Steps [All steps required to prepare the meal. Be Precise!]&#xA;Notes [Any info that could be useful to the cook]</description>
+    </item>
     <item>
       <title>Jaco-naise</title>
       <link>http://localhost:1313/cook/jaco-nese/</link>

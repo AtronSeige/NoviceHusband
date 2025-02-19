@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bread on Novice Husband... among other things</title>
-    <link>https://novicehusband.com/tags/bread/</link>
+    <link>http://localhost:1313/tags/bread/</link>
     <description>Recent content in Bread on Novice Husband... among other things</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 27 Sep 2022 21:06:29 +1300</lastBuildDate>
-    <atom:link href="https://novicehusband.com/tags/bread/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/bread/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Flat Breads</title>
-      <link>https://novicehusband.com/cook/flat-breads/</link>
+      <link>http://localhost:1313/cook/flat-breads/</link>
       <pubDate>Tue, 27 Sep 2022 21:06:29 +1300</pubDate>
-      <guid>https://novicehusband.com/cook/flat-breads/</guid>
+      <guid>http://localhost:1313/cook/flat-breads/</guid>
       <description>Every meal should have bread! This makes quite a lot of flat breads.</description>
     </item>
   </channel>

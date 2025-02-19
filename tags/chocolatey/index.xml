@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chocolatey on Novice Husband... among other things</title>
-    <link>https://novicehusband.com/tags/chocolatey/</link>
+    <link>http://localhost:1313/tags/chocolatey/</link>
     <description>Recent content in Chocolatey on Novice Husband... among other things</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 05 Jul 2022 20:26:23 +1300</lastBuildDate>
-    <atom:link href="https://novicehusband.com/tags/chocolatey/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/chocolatey/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Chocolatey</title>
-      <link>https://novicehusband.com/developer/chocolatey/</link>
+      <link>http://localhost:1313/developer/chocolatey/</link>
       <pubDate>Tue, 05 Jul 2022 20:26:23 +1300</pubDate>
-      <guid>https://novicehusband.com/developer/chocolatey/</guid>
+      <guid>http://localhost:1313/developer/chocolatey/</guid>
       <description>Link https://docs.chocolatey.org/en-us/&#xA;Useful apps Create a package.config file in a folder that you prefer.&#xA;I find these apps useful, so I use this config file.</description>
     </item>
   </channel>

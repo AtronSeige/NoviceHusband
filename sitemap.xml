@@ -2,211 +2,316 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://novicehusband.com/</loc>
+    <loc>http://localhost:1313/cook/breakfast-oats/</loc>
+    <lastmod>2025-02-19T21:03:17+13:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2025-02-19T21:03:17+13:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/cook/</loc>
+    <lastmod>2025-02-19T21:03:17+13:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-02-19T21:03:17+13:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/brewer/</loc>
+    <lastmod>2025-02-03T22:30:48+13:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/hop-water/</loc>
+    <lastmod>2025-02-03T22:30:48+13:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/brewer/hop-water/</loc>
+    <lastmod>2025-02-03T22:30:48+13:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/non-alcoholic/</loc>
+    <lastmod>2025-02-03T22:30:48+13:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-02-03T22:30:48+13:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/developer/</loc>
     <lastmod>2024-12-22T18:55:35+13:00</lastmod>
   </url><url>
-    <loc>https://novicehusband.com/categories/</loc>
+    <loc>http://localhost:1313/tags/sql/</loc>
+    <lastmod>2024-12-22T18:55:35+13:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/developer/sql-data-insert-into-undeclared-temp-table/</loc>
+    <lastmod>2024-12-22T18:55:35+13:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/developer/sql-thousands-separator/</loc>
     <lastmod>2024-12-22T18:49:40+13:00</lastmod>
   </url><url>
-    <loc>https://novicehusband.com/categories/developer/</loc>
-    <lastmod>2024-12-22T18:49:40+13:00</lastmod>
-  </url><url>
-    <loc>https://novicehusband.com/tags/sql/</loc>
-    <lastmod>2024-12-22T18:49:40+13:00</lastmod>
-  </url><url>
-    <loc>https://novicehusband.com/developer/sql-thousands-separator/</loc>
-    <lastmod>2024-12-22T18:49:40+13:00</lastmod>
-  </url><url>
-    <loc>https://novicehusband.com/tags/</loc>
-    <lastmod>2024-12-22T18:49:40+13:00</lastmod>
-  </url><url>
-    <loc>https://novicehusband.com/categories/brewer/</loc>
+    <loc>http://localhost:1313/tags/ginger-beer/</loc>
     <lastmod>2024-11-30T12:27:21+13:00</lastmod>
   </url><url>
-    <loc>https://novicehusband.com/tags/ginger-beer/</loc>
+    <loc>http://localhost:1313/brewer/ginger-beer-no-low-alcohol/</loc>
     <lastmod>2024-11-30T12:27:21+13:00</lastmod>
   </url><url>
-    <loc>https://novicehusband.com/brewer/ginger-beer-no-low-alcohol/</loc>
+    <loc>http://localhost:1313/tags/low-alcohol/</loc>
     <lastmod>2024-11-30T12:27:21+13:00</lastmod>
   </url><url>
-    <loc>https://novicehusband.com/tags/low-alcohol/</loc>
+    <loc>http://localhost:1313/tags/no-alcohol/</loc>
     <lastmod>2024-11-30T12:27:21+13:00</lastmod>
   </url><url>
-    <loc>https://novicehusband.com/tags/no-alcohol/</loc>
-    <lastmod>2024-11-30T12:27:21+13:00</lastmod>
+    <loc>http://localhost:1313/brewer/brewday-timeline/</loc>
+    <lastmod>2024-08-18T18:06:06+12:00</lastmod>
   </url><url>
-    <loc>https://novicehusband.com/brewer/all-go/</loc>
+    <loc>http://localhost:1313/developer/git-notes/</loc>
+    <lastmod>2024-07-17T22:06:57+12:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/atronseige/</loc>
+    <lastmod>2024-05-05T15:55:15+12:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/cv/</loc>
+    <lastmod>2024-05-05T15:55:15+12:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/developer/me/</loc>
+    <lastmod>2024-05-05T15:55:15+12:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/resume/</loc>
+    <lastmod>2024-05-05T15:55:15+12:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/developer/powershell-scripts/</loc>
+    <lastmod>2024-04-22T20:22:23+12:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/bolognese/</loc>
+    <lastmod>2024-04-22T20:01:07+12:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/cook/jaco-nese/</loc>
+    <lastmod>2024-04-22T20:01:07+12:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/spagbol/</loc>
+    <lastmod>2024-04-22T20:01:07+12:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/spaghetti/</loc>
+    <lastmod>2024-04-22T20:01:07+12:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/brewer/all-go/</loc>
     <lastmod>2024-04-22T15:51:24+12:00</lastmod>
   </url><url>
-    <loc>https://novicehusband.com/tags/brewery/</loc>
+    <loc>http://localhost:1313/tags/brewery/</loc>
     <lastmod>2024-04-22T15:51:24+12:00</lastmod>
   </url><url>
-    <loc>https://novicehusband.com/tags/cleaner/</loc>
+    <loc>http://localhost:1313/tags/cleaner/</loc>
     <lastmod>2024-04-22T15:51:24+12:00</lastmod>
   </url><url>
-    <loc>https://novicehusband.com/tags/detergent/</loc>
+    <loc>http://localhost:1313/tags/detergent/</loc>
     <lastmod>2024-04-22T15:51:24+12:00</lastmod>
   </url><url>
-    <loc>https://novicehusband.com/brewer/paa5/</loc>
+    <loc>http://localhost:1313/brewer/paa5/</loc>
     <lastmod>2024-04-22T15:50:53+12:00</lastmod>
   </url><url>
-    <loc>https://novicehusband.com/tags/sanitising/</loc>
+    <loc>http://localhost:1313/tags/sanitising/</loc>
     <lastmod>2024-04-22T15:50:53+12:00</lastmod>
   </url><url>
-    <loc>https://novicehusband.com/tags/calibration/</loc>
+    <loc>http://localhost:1313/tags/calibration/</loc>
     <lastmod>2024-04-01T15:44:36+13:00</lastmod>
   </url><url>
-    <loc>https://novicehusband.com/tags/hydrometer/</loc>
+    <loc>http://localhost:1313/tags/hydrometer/</loc>
     <lastmod>2024-04-01T15:44:36+13:00</lastmod>
   </url><url>
-    <loc>https://novicehusband.com/tags/tilt/</loc>
+    <loc>http://localhost:1313/tags/tilt/</loc>
     <lastmod>2024-04-01T15:44:36+13:00</lastmod>
   </url><url>
-    <loc>https://novicehusband.com/brewer/tilt-hydrometer-calibration/</loc>
+    <loc>http://localhost:1313/brewer/tilt-hydrometer-calibration/</loc>
     <lastmod>2024-04-01T15:44:36+13:00</lastmod>
   </url><url>
-    <loc>https://novicehusband.com/tags/sanitizing/</loc>
+    <loc>http://localhost:1313/tags/git/</loc>
+    <lastmod>2024-02-02T14:07:23+13:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/developer/git-setup-local/</loc>
+    <lastmod>2024-02-02T14:07:23+13:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/sanitizing/</loc>
     <lastmod>2024-01-18T21:36:26+13:00</lastmod>
   </url><url>
-    <loc>https://novicehusband.com/brewer/star-san/</loc>
+    <loc>http://localhost:1313/brewer/star-san/</loc>
     <lastmod>2024-01-18T21:36:26+13:00</lastmod>
   </url><url>
-    <loc>https://novicehusband.com/brewer/angry-water/</loc>
+    <loc>http://localhost:1313/brewer/angry-water/</loc>
     <lastmod>2023-10-24T23:13:52+13:00</lastmod>
   </url><url>
-    <loc>https://novicehusband.com/tags/non-alcoholic/</loc>
-    <lastmod>2023-10-24T23:13:52+13:00</lastmod>
-  </url><url>
-    <loc>https://novicehusband.com/tags/bacon/</loc>
+    <loc>http://localhost:1313/tags/bacon/</loc>
     <lastmod>2023-10-24T17:53:25+13:00</lastmod>
   </url><url>
-    <loc>https://novicehusband.com/cook/bacon/</loc>
+    <loc>http://localhost:1313/cook/bacon/</loc>
     <lastmod>2023-10-24T17:53:25+13:00</lastmod>
   </url><url>
-    <loc>https://novicehusband.com/tags/breakfast/</loc>
+    <loc>http://localhost:1313/tags/breakfast/</loc>
     <lastmod>2023-10-24T17:53:25+13:00</lastmod>
   </url><url>
-    <loc>https://novicehusband.com/categories/cook/</loc>
-    <lastmod>2023-10-24T17:53:25+13:00</lastmod>
-  </url><url>
-    <loc>https://novicehusband.com/repairman/electricity101/</loc>
+    <loc>http://localhost:1313/repairman/electricity101/</loc>
     <lastmod>2023-08-23T20:31:57+12:00</lastmod>
   </url><url>
-    <loc>https://novicehusband.com/categories/repairman/</loc>
+    <loc>http://localhost:1313/categories/repairman/</loc>
     <lastmod>2023-08-23T20:31:57+12:00</lastmod>
   </url><url>
-    <loc>https://novicehusband.com/categories/artist/</loc>
+    <loc>http://localhost:1313/artist/</loc>
     <lastmod>2023-04-10T12:56:47+12:00</lastmod>
   </url><url>
-    <loc>https://novicehusband.com/artist/beer-crown-epoxy-frame/</loc>
+    <loc>http://localhost:1313/categories/artist/</loc>
     <lastmod>2023-04-10T12:56:47+12:00</lastmod>
   </url><url>
-    <loc>https://novicehusband.com/developer/vs-code-copy-without-formatting/</loc>
+    <loc>http://localhost:1313/artist/beer-crown-epoxy-frame/</loc>
+    <lastmod>2023-04-10T12:56:47+12:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/developer/vs-code-copy-without-formatting/</loc>
     <lastmod>2023-02-06T14:03:26+13:00</lastmod>
   </url><url>
-    <loc>https://novicehusband.com/tags/vscode/</loc>
+    <loc>http://localhost:1313/tags/vscode/</loc>
     <lastmod>2023-02-06T14:03:26+13:00</lastmod>
   </url><url>
-    <loc>https://novicehusband.com/brewer/fermentation-temperature-controller-hack/</loc>
+    <loc>http://localhost:1313/repairman/escooter-breaks/</loc>
+    <lastmod>2023-02-06T13:59:42+13:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/repairman/escooter-handle/</loc>
+    <lastmod>2023-02-06T13:57:33+13:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/brewer/fermentation-temperature-controller-hack/</loc>
     <lastmod>2023-02-06T12:35:23+13:00</lastmod>
   </url><url>
-    <loc>https://novicehusband.com/tags/hack/</loc>
+    <loc>http://localhost:1313/tags/hack/</loc>
     <lastmod>2023-02-06T12:35:23+13:00</lastmod>
   </url><url>
-    <loc>https://novicehusband.com/tags/temperature/</loc>
+    <loc>http://localhost:1313/tags/temperature/</loc>
     <lastmod>2023-02-06T12:35:23+13:00</lastmod>
   </url><url>
-    <loc>https://novicehusband.com/brewer/suppliers-in-chch/</loc>
+    <loc>http://localhost:1313/brewer/suppliers-in-chch/</loc>
     <lastmod>2023-02-06T11:41:43+13:00</lastmod>
   </url><url>
-    <loc>https://novicehusband.com/tags/chemicals/</loc>
+    <loc>http://localhost:1313/tags/chemicals/</loc>
     <lastmod>2023-02-06T11:41:43+13:00</lastmod>
   </url><url>
-    <loc>https://novicehusband.com/tags/cleaning/</loc>
+    <loc>http://localhost:1313/tags/cleaning/</loc>
     <lastmod>2023-02-06T11:41:43+13:00</lastmod>
   </url><url>
-    <loc>https://novicehusband.com/tags/co2/</loc>
+    <loc>http://localhost:1313/tags/co2/</loc>
     <lastmod>2023-02-06T11:41:43+13:00</lastmod>
   </url><url>
-    <loc>https://novicehusband.com/tags/ingredients/</loc>
+    <loc>http://localhost:1313/tags/ingredients/</loc>
     <lastmod>2023-02-06T11:41:43+13:00</lastmod>
   </url><url>
-    <loc>https://novicehusband.com/cook/greek-salad/</loc>
+    <loc>http://localhost:1313/tags/fraud/</loc>
+    <lastmod>2022-11-06T11:42:25+13:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/developer/online-health-is-it-a-scam/</loc>
+    <lastmod>2022-11-06T11:42:25+13:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/phishing/</loc>
+    <lastmod>2022-11-06T11:42:25+13:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/scam/</loc>
+    <lastmod>2022-11-06T11:42:25+13:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/smishng/</loc>
+    <lastmod>2022-11-06T11:42:25+13:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/cook/harissa/</loc>
+    <lastmod>2022-10-22T16:55:21+13:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/cook/greek-salad/</loc>
     <lastmod>2022-09-27T21:23:12+13:00</lastmod>
   </url><url>
-    <loc>https://novicehusband.com/tags/salad/</loc>
+    <loc>http://localhost:1313/tags/salad/</loc>
     <lastmod>2022-09-27T21:23:12+13:00</lastmod>
   </url><url>
-    <loc>https://novicehusband.com/tags/bread/</loc>
+    <loc>http://localhost:1313/tags/bread/</loc>
     <lastmod>2022-09-27T21:06:29+13:00</lastmod>
   </url><url>
-    <loc>https://novicehusband.com/cook/flat-breads/</loc>
+    <loc>http://localhost:1313/cook/flat-breads/</loc>
     <lastmod>2022-09-27T21:06:29+13:00</lastmod>
   </url><url>
-    <loc>https://novicehusband.com/developer/access-shared-folder/</loc>
+    <loc>http://localhost:1313/developer/access-shared-folder/</loc>
     <lastmod>2022-07-26T21:21:35+12:00</lastmod>
   </url><url>
-    <loc>https://novicehusband.com/tags/chocolatey/</loc>
+    <loc>http://localhost:1313/tags/chocolatey/</loc>
     <lastmod>2022-07-05T20:26:23+13:00</lastmod>
   </url><url>
-    <loc>https://novicehusband.com/developer/chocolatey/</loc>
+    <loc>http://localhost:1313/developer/chocolatey/</loc>
     <lastmod>2022-07-05T20:26:23+13:00</lastmod>
   </url><url>
-    <loc>https://novicehusband.com/categories/husband/</loc>
+    <loc>http://localhost:1313/brewer/</loc>
     <lastmod>2022-05-12T21:23:48+12:00</lastmod>
   </url><url>
-    <loc>https://novicehusband.com/husband/</loc>
+    <loc>http://localhost:1313/cook/</loc>
     <lastmod>2022-05-12T21:23:48+12:00</lastmod>
   </url><url>
-    <loc>https://novicehusband.com/kiwi/</loc>
+    <loc>http://localhost:1313/developer/</loc>
     <lastmod>2022-05-12T21:23:48+12:00</lastmod>
   </url><url>
-    <loc>https://novicehusband.com/categories/kiwi/</loc>
+    <loc>http://localhost:1313/categories/husband/</loc>
     <lastmod>2022-05-12T21:23:48+12:00</lastmod>
   </url><url>
-    <loc>https://novicehusband.com/repairman/</loc>
+    <loc>http://localhost:1313/husband/</loc>
     <lastmod>2022-05-12T21:23:48+12:00</lastmod>
   </url><url>
-    <loc>https://novicehusband.com/cook/boiled-eggs/</loc>
+    <loc>http://localhost:1313/kiwi/</loc>
+    <lastmod>2022-05-12T21:23:48+12:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/kiwi/</loc>
+    <lastmod>2022-05-12T21:23:48+12:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/repairman/</loc>
+    <lastmod>2022-05-12T21:23:48+12:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/developer/git-setup-online/</loc>
+    <lastmod>2022-05-12T20:37:42+12:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/cook/boiled-eggs/</loc>
     <lastmod>2022-04-11T20:12:55+12:00</lastmod>
   </url><url>
-    <loc>https://novicehusband.com/tags/eggs/</loc>
+    <loc>http://localhost:1313/tags/eggs/</loc>
     <lastmod>2022-04-11T20:12:55+12:00</lastmod>
   </url><url>
-    <loc>https://novicehusband.com/brewer/pro-brewers-wash/</loc>
+    <loc>http://localhost:1313/cook/frozen-mixed-veg/</loc>
+    <lastmod>2022-03-22T21:52:08+13:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/cook/chicken-thighs/</loc>
+    <lastmod>2022-03-22T20:59:52+13:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/cook/rump-steak/</loc>
+    <lastmod>2022-03-22T20:38:13+13:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/developer/powershell-profile/</loc>
+    <lastmod>2022-03-22T20:30:15+13:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/developer/local-site-setup/</loc>
+    <lastmod>2022-03-22T20:27:46+13:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/brewer/pro-brewers-wash/</loc>
     <lastmod>2022-03-20T13:29:32+13:00</lastmod>
   </url><url>
-    <loc>https://novicehusband.com/brewer/force-carbonation/</loc>
+    <loc>http://localhost:1313/kiwi/daylight-hours/</loc>
+    <lastmod>2022-01-17T21:40:45+13:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/brewer/force-carbonation/</loc>
     <lastmod>2021-12-15T22:04:51+13:00</lastmod>
   </url><url>
-    <loc>https://novicehusband.com/tags/kegs/</loc>
+    <loc>http://localhost:1313/tags/kegs/</loc>
     <lastmod>2021-12-15T22:04:51+13:00</lastmod>
   </url><url>
-    <loc>https://novicehusband.com/husband/april-fools-ideas/</loc>
+    <loc>http://localhost:1313/husband/april-fools-ideas/</loc>
     <lastmod>2021-12-14T21:45:20+13:00</lastmod>
   </url><url>
-    <loc>https://novicehusband.com/brewer/gelatin-mix-for-beer-clarity/</loc>
+    <loc>http://localhost:1313/brewer/gelatin-mix-for-beer-clarity/</loc>
     <lastmod>2021-12-13T21:21:06+13:00</lastmod>
   </url><url>
-    <loc>https://novicehusband.com/cook/burning-water/</loc>
+    <loc>http://localhost:1313/cook/burning-water/</loc>
     <lastmod>2021-12-07T21:34:09+13:00</lastmod>
   </url><url>
-    <loc>https://novicehusband.com/tags/git/</loc>
+    <loc>http://localhost:1313/tags/hugo/</loc>
     <lastmod>2021-12-06T21:17:48+13:00</lastmod>
   </url><url>
-    <loc>https://novicehusband.com/tags/hugo/</loc>
+    <loc>http://localhost:1313/developer/hugo-command-reference/</loc>
     <lastmod>2021-12-06T21:17:48+13:00</lastmod>
   </url><url>
-    <loc>https://novicehusband.com/developer/hugo-command-reference/</loc>
-    <lastmod>2021-12-06T21:17:48+13:00</lastmod>
-  </url><url>
-    <loc>https://novicehusband.com/kiwi/kia-ora-aotearoa/</loc>
+    <loc>http://localhost:1313/kiwi/kia-ora-aotearoa/</loc>
     <lastmod>2021-11-21T15:38:11+13:00</lastmod>
   </url><url>
-    <loc>https://novicehusband.com/developer/hugo-setup/</loc>
+    <loc>http://localhost:1313/developer/hugo-setup/</loc>
     <lastmod>2021-11-02T21:18:29+13:00</lastmod>
   </url><url>
-    <loc>https://novicehusband.com/developer/hello-world/</loc>
+    <loc>http://localhost:1313/developer/hello-world/</loc>
     <lastmod>2021-11-02T20:47:53+13:00</lastmod>
   </url>
 </urlset>

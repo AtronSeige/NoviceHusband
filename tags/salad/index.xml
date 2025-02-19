@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Salad on Novice Husband... among other things</title>
-    <link>https://novicehusband.com/tags/salad/</link>
+    <link>http://localhost:1313/tags/salad/</link>
     <description>Recent content in Salad on Novice Husband... among other things</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 27 Sep 2022 21:23:12 +1300</lastBuildDate>
-    <atom:link href="https://novicehusband.com/tags/salad/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/salad/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Greek Salad</title>
-      <link>https://novicehusband.com/cook/greek-salad/</link>
+      <link>http://localhost:1313/cook/greek-salad/</link>
       <pubDate>Tue, 27 Sep 2022 21:23:12 +1300</pubDate>
-      <guid>https://novicehusband.com/cook/greek-salad/</guid>
+      <guid>http://localhost:1313/cook/greek-salad/</guid>
       <description>How to make a large Greek Salad.</description>
     </item>
   </channel>

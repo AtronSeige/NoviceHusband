@@ -2,24 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Repairman on Novice Husband... among other things</title>
-    <link>https://novicehusband.com/categories/repairman/</link>
+    <link>http://localhost:1313/categories/repairman/</link>
     <description>Recent content in Repairman on Novice Husband... among other things</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 23 Aug 2023 20:31:57 +1200</lastBuildDate>
-    <atom:link href="https://novicehusband.com/categories/repairman/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/repairman/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Electricity 101</title>
-      <link>https://novicehusband.com/repairman/electricity101/</link>
+      <link>http://localhost:1313/repairman/electricity101/</link>
       <pubDate>Wed, 23 Aug 2023 20:31:57 +1200</pubDate>
-      <guid>https://novicehusband.com/repairman/electricity101/</guid>
+      <guid>http://localhost:1313/repairman/electricity101/</guid>
       <description>A few quick notes about electricity, plugs and testing.</description>
     </item>
     <item>
+      <title>Escooter Breaks</title>
+      <link>http://localhost:1313/repairman/escooter-breaks/</link>
+      <pubDate>Mon, 06 Feb 2023 13:59:42 +1300</pubDate>
+      <guid>http://localhost:1313/repairman/escooter-breaks/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Escooter Handle</title>
+      <link>http://localhost:1313/repairman/escooter-handle/</link>
+      <pubDate>Mon, 06 Feb 2023 13:57:33 +1300</pubDate>
+      <guid>http://localhost:1313/repairman/escooter-handle/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>repairman</title>
-      <link>https://novicehusband.com/repairman/</link>
+      <link>http://localhost:1313/repairman/</link>
       <pubDate>Thu, 12 May 2022 21:23:48 +1200</pubDate>
-      <guid>https://novicehusband.com/repairman/</guid>
+      <guid>http://localhost:1313/repairman/</guid>
       <description>Trying to fix things, hopefully breaking them less.</description>
     </item>
   </channel>

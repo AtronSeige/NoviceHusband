@@ -2,17 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Non-Alcoholic on Novice Husband... among other things</title>
-    <link>https://novicehusband.com/tags/non-alcoholic/</link>
+    <link>http://localhost:1313/tags/non-alcoholic/</link>
     <description>Recent content in Non-Alcoholic on Novice Husband... among other things</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Oct 2023 23:13:52 +1300</lastBuildDate>
-    <atom:link href="https://novicehusband.com/tags/non-alcoholic/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 03 Feb 2025 22:30:48 +1300</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/non-alcoholic/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hop Water</title>
+      <link>http://localhost:1313/brewer/hop-water/</link>
+      <pubDate>Mon, 03 Feb 2025 22:30:48 +1300</pubDate>
+      <guid>http://localhost:1313/brewer/hop-water/</guid>
+      <description>Hop flavoured carbonated water</description>
+    </item>
     <item>
       <title>Angry Water aka Soda Water</title>
-      <link>https://novicehusband.com/brewer/angry-water/</link>
+      <link>http://localhost:1313/brewer/angry-water/</link>
       <pubDate>Tue, 24 Oct 2023 23:13:52 +1300</pubDate>
-      <guid>https://novicehusband.com/brewer/angry-water/</guid>
+      <guid>http://localhost:1313/brewer/angry-water/</guid>
       <description>Soda water is great to have on tap.</description>
     </item>
   </channel>

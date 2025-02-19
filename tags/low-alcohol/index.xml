@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Low Alcohol on Novice Husband... among other things</title>
-    <link>https://novicehusband.com/tags/low-alcohol/</link>
+    <link>http://localhost:1313/tags/low-alcohol/</link>
     <description>Recent content in Low Alcohol on Novice Husband... among other things</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 30 Nov 2024 12:27:21 +1300</lastBuildDate>
-    <atom:link href="https://novicehusband.com/tags/low-alcohol/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/low-alcohol/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ginger beer (No/Low Alcohol)</title>
-      <link>https://novicehusband.com/brewer/ginger-beer-no-low-alcohol/</link>
+      <link>http://localhost:1313/brewer/ginger-beer-no-low-alcohol/</link>
       <pubDate>Sat, 30 Nov 2024 12:27:21 +1300</pubDate>
-      <guid>https://novicehusband.com/brewer/ginger-beer-no-low-alcohol/</guid>
+      <guid>http://localhost:1313/brewer/ginger-beer-no-low-alcohol/</guid>
       <description>A refreshing drink that my grandma used to make.</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Eggs on Novice Husband... among other things</title>
-    <link>https://novicehusband.com/tags/eggs/</link>
+    <link>http://localhost:1313/tags/eggs/</link>
     <description>Recent content in Eggs on Novice Husband... among other things</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 11 Apr 2022 20:12:55 +1200</lastBuildDate>
-    <atom:link href="https://novicehusband.com/tags/eggs/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/eggs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Boiled Eggs</title>
-      <link>https://novicehusband.com/cook/boiled-eggs/</link>
+      <link>http://localhost:1313/cook/boiled-eggs/</link>
       <pubDate>Mon, 11 Apr 2022 20:12:55 +1200</pubDate>
-      <guid>https://novicehusband.com/cook/boiled-eggs/</guid>
+      <guid>http://localhost:1313/cook/boiled-eggs/</guid>
       <description>Truth, Justice, Freedom, Reasonably Priced Love, and a Hard-Boiled Egg! (Sir Terry Pratchett)</description>
     </item>
   </channel>

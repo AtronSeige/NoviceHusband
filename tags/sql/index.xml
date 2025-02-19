@@ -2,17 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sql on Novice Husband... among other things</title>
-    <link>https://novicehusband.com/tags/sql/</link>
+    <link>http://localhost:1313/tags/sql/</link>
     <description>Recent content in Sql on Novice Husband... among other things</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Dec 2024 18:49:40 +1300</lastBuildDate>
-    <atom:link href="https://novicehusband.com/tags/sql/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 22 Dec 2024 18:55:35 +1300</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/sql/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SQL Data - Insert Into Undeclared Temp Table</title>
+      <link>http://localhost:1313/developer/sql-data-insert-into-undeclared-temp-table/</link>
+      <pubDate>Sun, 22 Dec 2024 18:55:35 +1300</pubDate>
+      <guid>http://localhost:1313/developer/sql-data-insert-into-undeclared-temp-table/</guid>
+      <description>Insert data into a undeclared temp table</description>
+    </item>
     <item>
       <title>SQL - Thousands Separator</title>
-      <link>https://novicehusband.com/developer/sql-thousands-separator/</link>
+      <link>http://localhost:1313/developer/sql-thousands-separator/</link>
       <pubDate>Sun, 22 Dec 2024 18:49:40 +1300</pubDate>
-      <guid>https://novicehusband.com/developer/sql-thousands-separator/</guid>
+      <guid>http://localhost:1313/developer/sql-thousands-separator/</guid>
       <description>Useful for making large numbers more readable.</description>
     </item>
   </channel>

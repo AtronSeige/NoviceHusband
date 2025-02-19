@@ -6,14 +6,21 @@
     <description>Recent content in Brewer on Novice Husband... among other things</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 30 Nov 2024 12:27:21 +1300</lastBuildDate>
+    <lastBuildDate>Mon, 03 Feb 2025 22:30:48 +1300</lastBuildDate>
     <atom:link href="http://localhost:1313/brewer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hop Water</title>
+      <link>http://localhost:1313/brewer/hop-water/</link>
+      <pubDate>Mon, 03 Feb 2025 22:30:48 +1300</pubDate>
+      <guid>http://localhost:1313/brewer/hop-water/</guid>
+      <description>Hop flavoured carbonated water</description>
+    </item>
     <item>
       <title>Ginger beer (No/Low Alcohol)</title>
       <link>http://localhost:1313/brewer/ginger-beer-no-low-alcohol/</link>
       <pubDate>Sat, 30 Nov 2024 12:27:21 +1300</pubDate>
       <guid>http://localhost:1313/brewer/ginger-beer-no-low-alcohol/</guid>
-      <description>A refreshing drink that my mom and grandma used to make. Now that I know more about fermentation, I am wondering how many times we were drunk.</description>
+      <description>A refreshing drink that my grandma used to make.</description>
     </item>
     <item>
       <title>Brewday Timeline</title>
